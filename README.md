@@ -38,23 +38,27 @@
 ## Videos
 - [AdonisJs - Installing Node Using Nvm](https://www.youtube.com/watch?v=3dRbd2G9QZI)
 - [AdonisJs - Installing Framework](https://www.youtube.com/watch?v=Dsn96iDWAY8)
-- [AdonisJs : Introduction To Routes](https://www.youtube.com/watch?v=LZGqedkHnZI)
-- [AdonisJs : Introduction To Routes](https://www.youtube.com/watch?v=LZGqedkHnZI)
+- [AdonisJs - Introduction To Routes](https://www.youtube.com/watch?v=LZGqedkHnZI)
+- [AdonisJs - Introduction To Middleware](https://www.youtube.com/watch?v=9xwpviYILPY)
+- [Adonis middleware package update](https://www.youtube.com/watch?v=Pu4Y-CWH4yE)
+- [Practical Introduction To AdonisJs 3.0](https://www.youtube.com/watch?v=4MB0_X1fm5k)
+- [Ajax File Uploads In AdonisJs](https://www.youtube.com/watch?v=Vn5MFEfsmg4)
+- [Musical Routes (AdonisJs)](https://www.youtube.com/watch?v=w7LD7E53w3w)
 
 ## Conferences
--
+> There is no information to this content yet
 
 ## Books
--
+> There is no information to this content yet
 
 ## Newsletters
--
+> There is no information to this content yet
 
 ## Community
--
+- [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook
 
 ## Miscellaneous
--
+> There is no information to this content yet
 
 ## Contributing
 
