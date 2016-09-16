@@ -31,10 +31,15 @@
 - [Adonis Rally](https://github.com/adonisjs/adonis-rally)
 
 ## Articles, Tutorials, Blogs, etc.
--
+- [Adonis Official Blog](https://adonisjs.svbtle.com)
+- [Meet AdonisJs! A Laravel-style MVC Framework for Node.js](https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js)
+- [AdonisJS - A Laravel-ish Node framework](http://heera.it/adonis-laravel-ish-node-framework#.V9vW2KNh1TJ)
 
 ## Videos
--
+- [AdonisJs - Installing Node Using Nvm](https://www.youtube.com/watch?v=3dRbd2G9QZI)
+- [AdonisJs - Installing Framework](https://www.youtube.com/watch?v=Dsn96iDWAY8)
+- [AdonisJs : Introduction To Routes](https://www.youtube.com/watch?v=LZGqedkHnZI)
+- [AdonisJs : Introduction To Routes](https://www.youtube.com/watch?v=LZGqedkHnZI)
 
 ## Conferences
 -
