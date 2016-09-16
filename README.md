@@ -16,11 +16,19 @@
 ## Essentials
 - [AdonisJS](http://adonisjs.com)
 - [AdonisJS Documentation](http://adonisjs.com/docs/)
+- [AdonisJS CLI](https://github.com/adonisjs/adonis-cli)
 - [AdonisJS GitHub](https://github.com/adonisjs)
 
 ## Packages
 - [Adonis Auth](https://github.com/adonisjs/adonis-auth)
-- [Adonis Auth](https://github.com/adonisjs/adonis-auth)[Adonis Auth](https://github.com/adonisjs/adonis-auth)
+- [Adonis Commands](https://github.com/adonisjs/adonis-commands)
+- [Adonis Mail](https://github.com/adonisjs/adonis-mail)
+- [Adonis Redis](https://github.com/adonisjs/adonis-redis)
+- [Adonis Validation](https://github.com/adonisjs/adonis-validation-provider)
+- [Adonis Middleware](https://github.com/adonisjs/adonis-middleware)
+- [Adonis Lucid](https://github.com/adonisjs/adonis-lucid)
+- [Adonis Config](https://github.com/adonisjs/adonis-config-provider)
+- [Adonis Rally](https://github.com/adonisjs/adonis-rally)
 
 ## Articles, Tutorials, Blogs, etc.
 -
