@@ -59,7 +59,7 @@
 - [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook
 
 ## Miscellaneous
-> There is no information to this content yet
+> [Official Twitter](https://twitter.com/adonisframework)
 
 ## Contributing
 
