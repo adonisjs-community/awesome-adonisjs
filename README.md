@@ -35,6 +35,7 @@
 - [Meet AdonisJs! A Laravel-style MVC Framework for Node.js](https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js)
 - [AdonisJS - A Laravel-ish Node framework](http://heera.it/adonis-laravel-ish-node-framework#.V9vW2KNh1TJ)
 - [Basic Authentication With AdonisJs](https://adonisjs.svbtle.com/basic-authentication-with-adonisjs)
+- [Creating your first app with AdonisJs and adding authentication](https://auth0.com/blog/creating-your-first-app-with-adonisj-and-adding-authentication/)
 
 ## Videos
 - [AdonisJs - Installing Node Using Nvm](https://www.youtube.com/watch?v=3dRbd2G9QZI)
