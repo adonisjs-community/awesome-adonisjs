@@ -65,11 +65,7 @@
 
 Found an awesome package, blog, video etc.? Send me a pull request!
 
-#### Guidelines
-
-* Please make an individual pull request for each suggestion
-* Use the following format for links: \[Resource\]\(URL\)
-* New categories or improvements to the existing categorization are welcome
+But, first, read [contribution guidline](https://github.com/zgabievi/awesome-adonisjs/blob/master/CONTRIBUTING.md).
 
 ## License
 
