@@ -72,4 +72,4 @@ Found an awesome package, blog, video etc.? Send me a pull request!
 
 ## License
 
-Awesome AdonisJS is licensed under a  [MIT License](mit license commercial).
+Awesome AdonisJS is licensed under a  [MIT License](https://github.com/zgabievi/awesome-adonisjs/blob/master/LICENSE).
