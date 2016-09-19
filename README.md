@@ -38,15 +38,9 @@
 - [Creating your first app with AdonisJs and adding authentication](https://auth0.com/blog/creating-your-first-app-with-adonisj-and-adding-authentication/)
 - [Adonis.js Setup On Ubuntu 14](https://www.vultr.com/docs/adonis-js-setup-on-ubuntu-14)
 
-## Videos
-- [AdonisJs - Installing Node Using Nvm](https://www.youtube.com/watch?v=3dRbd2G9QZI)
-- [AdonisJs - Installing Framework](https://www.youtube.com/watch?v=Dsn96iDWAY8)
-- [AdonisJs - Introduction To Routes](https://www.youtube.com/watch?v=LZGqedkHnZI)
-- [AdonisJs - Introduction To Middleware](https://www.youtube.com/watch?v=9xwpviYILPY)
-- [Adonis middleware package update](https://www.youtube.com/watch?v=Pu4Y-CWH4yE)
-- [Practical Introduction To AdonisJs 3.0](https://www.youtube.com/watch?v=4MB0_X1fm5k)
-- [Ajax File Uploads In AdonisJs](https://www.youtube.com/watch?v=Vn5MFEfsmg4)
-- [Musical Routes (AdonisJs)](https://www.youtube.com/watch?v=w7LD7E53w3w)
+## Videos, Courses, etc.
+- [AdonisJs - Getting Started](https://www.youtube.com/watch?v=3dRbd2G9QZI&list=PLWmIA5YpCsizOMoM3tH5NSp1sHmdzVLvW) - Playlist
+- [AdonisJs JSON API](https://www.youtube.com/watch?v=HSZDcSO3EcA&list=PL4j61BsbjVkKe__y9_EPGcHf-WviE8NIp) - Playlist
 
 ## Conferences
 > There is no information to this content yet
