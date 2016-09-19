@@ -36,6 +36,7 @@
 - [AdonisJS - A Laravel-ish Node framework](http://heera.it/adonis-laravel-ish-node-framework#.V9vW2KNh1TJ)
 - [Basic Authentication With AdonisJs](https://adonisjs.svbtle.com/basic-authentication-with-adonisjs)
 - [Creating your first app with AdonisJs and adding authentication](https://auth0.com/blog/creating-your-first-app-with-adonisj-and-adding-authentication/)
+- [Adonis.js Setup On Ubuntu 14](https://www.vultr.com/docs/adonis-js-setup-on-ubuntu-14)
 
 ## Videos
 - [AdonisJs - Installing Node Using Nvm](https://www.youtube.com/watch?v=3dRbd2G9QZI)
