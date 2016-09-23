@@ -37,6 +37,7 @@
 - [Basic Authentication With AdonisJs](https://adonisjs.svbtle.com/basic-authentication-with-adonisjs)
 - [Creating your first app with AdonisJs and adding authentication](https://auth0.com/blog/creating-your-first-app-with-adonisj-and-adding-authentication/)
 - [Adonis.js Setup On Ubuntu 14](https://www.vultr.com/docs/adonis-js-setup-on-ubuntu-14)
+- [Using Socket.io with Adonis](http://amanvirk.me/using-socket-io-with-adonis/)
 
 ## Videos, Courses, etc.
 - [AdonisJs - Getting Started](https://www.youtube.com/watch?v=3dRbd2G9QZI&list=PLWmIA5YpCsizOMoM3tH5NSp1sHmdzVLvW) - Playlist
