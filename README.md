@@ -20,20 +20,20 @@
 - [AdonisJS GitHub](https://github.com/adonisjs)
 
 ## Packages
-- [Adonis Auth](https://github.com/adonisjs/adonis-auth) - Official authentication provider
-- [Adonis Commands](https://github.com/adonisjs/adonis-commands) - Set of core commands
-- [Adonis Mail](https://github.com/adonisjs/adonis-mail) - Official email provider
-- [Adonis Redis](https://github.com/adonisjs/adonis-redis) - It makes easier to work with redis and has out of the box support for Pub/Sub
-- [Adonis Validation](https://github.com/adonisjs/adonis-validation-provider) - Validation provider for adonis framework it makes use of indicative under the hood
-- [Adonis Middleware](https://github.com/adonisjs/adonis-middleware) - List of official middleware
-- [Adonis Lucid](https://github.com/adonisjs/adonis-lucid) - Official SQL ORM for adonis framework
-- [Adonis Config](https://github.com/adonisjs/adonis-config-provider) - Official config provider
-- [Adonis Rally](https://github.com/adonisjs/adonis-rally) - It is a forum engine
-- [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Is a namespacing library for node/io js
-- [Adonis Encrypter](https://github.com/pixeleur/adonis-encrypter) - It uses a Static Initialization Vector for encryption
-- [Adonis Queue](https://www.npmjs.com/package/adonis-queue) - A job queuing provider that leverages Bull
-- [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks
-- [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails
+- [Adonis Auth](https://github.com/adonisjs/adonis-auth) - Official authentication provider.
+- [Adonis Commands](https://github.com/adonisjs/adonis-commands) - Set of core commands.
+- [Adonis Mail](https://github.com/adonisjs/adonis-mail) - Official email provider.
+- [Adonis Redis](https://github.com/adonisjs/adonis-redis) - It makes easier to work with redis and has out of the box support for Pub/Sub.
+- [Adonis Validation](https://github.com/adonisjs/adonis-validation-provider) - Validation provider for adonis framework it makes use of indicative under the hood.
+- [Adonis Middleware](https://github.com/adonisjs/adonis-middleware) - List of official middleware.
+- [Adonis Lucid](https://github.com/adonisjs/adonis-lucid) - Official SQL ORM for adonis framework.
+- [Adonis Config](https://github.com/adonisjs/adonis-config-provider) - Official config provider.
+- [Adonis Rally](https://github.com/adonisjs/adonis-rally) - It is a forum engine.
+- [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Is a namespacing library for node/io js.
+- [Adonis Encrypter](https://github.com/pixeleur/adonis-encrypter) - It uses a Static Initialization Vector for encryption.
+- [Adonis Queue](https://www.npmjs.com/package/adonis-queue) - A job queuing provider that leverages Bull.
+- [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
+- [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails.
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
