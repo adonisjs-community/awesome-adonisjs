@@ -43,6 +43,8 @@
 - [Creating your first app with AdonisJs and adding authentication](https://auth0.com/blog/creating-your-first-app-with-adonisj-and-adding-authentication/)
 - [Adonis.js Setup On Ubuntu 14](https://www.vultr.com/docs/adonis-js-setup-on-ubuntu-14)
 - [Using Socket.io with Adonis](http://amanvirk.me/using-socket-io-with-adonis/)
+- [AdonisJS for Laravel Developers](http://codefortheweb.com/blog/adonisjs-for-laravel-developers)
+- [Great JavaScript Module Management](https://medium.com/@assertchris/effortless-javascript-modules-f6c1059d11d4#.vcx23lblo)
 
 ## Videos, Courses, etc.
 - [AdonisJs - Getting Started](https://www.youtube.com/watch?v=3dRbd2G9QZI&list=PLWmIA5YpCsizOMoM3tH5NSp1sHmdzVLvW) - Playlist
