@@ -45,6 +45,7 @@
 - [Using Socket.io with Adonis](http://amanvirk.me/using-socket-io-with-adonis/)
 - [AdonisJS for Laravel Developers](http://codefortheweb.com/blog/adonisjs-for-laravel-developers)
 - [Great JavaScript Module Management](https://medium.com/@assertchris/effortless-javascript-modules-f6c1059d11d4#.vcx23lblo)
+- [Node.js broken ecosystem and rise of AdonisJs](https://medium.com/@Charles6Andy/node-js-broken-ecosystem-and-rise-of-adonisjs-46e3d63e5fcc#.fkxzcpx0t)
 
 ## Videos, Courses, etc.
 - [AdonisJs - Getting Started](https://www.youtube.com/watch?v=3dRbd2G9QZI&list=PLWmIA5YpCsizOMoM3tH5NSp1sHmdzVLvW) - Playlist
