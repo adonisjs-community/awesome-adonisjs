@@ -61,9 +61,9 @@
 
 ## Community
 - [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook
+- [Official Twitter](https://twitter.com/adonisframework)
 
 ## Miscellaneous
-- [Official Twitter](https://twitter.com/adonisframework)
 - [Discussion](https://github.com/adonisjs/discussion) - Discussing about new features and sharing random thoughts
 
 ## Contributing
