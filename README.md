@@ -34,6 +34,7 @@
 - [Adonis Queue](https://www.npmjs.com/package/adonis-queue) - A job queuing provider that leverages Bull.
 - [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
 - [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails.
+- [Adonis Ally](https://github.com/adonisjs/adonis-ally) - Social Authentication provider. It gives you the functionality to authenticate users using social websites like Facebook, Twitter, Google, Github etc
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
@@ -55,9 +56,6 @@
 > There is no information to this content yet
 
 ## Books
-> There is no information to this content yet
-
-## Newsletters
 > There is no information to this content yet
 
 ## Community
