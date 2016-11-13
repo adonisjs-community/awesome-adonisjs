@@ -35,6 +35,7 @@
 - [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
 - [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails.
 - [Adonis Ally](https://github.com/adonisjs/adonis-ally) - Social Authentication provider. It gives you the functionality to authenticate users using social websites like Facebook, Twitter, Google, Github etc
+- [AdonisJS Internalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
