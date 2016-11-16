@@ -9,7 +9,6 @@
 - [Videos](#videos)
 - [Conferences](#conferences)
 - [Books](#books)
-- [Newsletters](#newsletters)
 - [Community](#community)
 - [Miscellaneous](#miscellaneous)
 
@@ -65,6 +64,7 @@
 
 ## Miscellaneous
 - [Discussion](https://github.com/adonisjs/discussion) - Discussing about new features and sharing random thoughts
+- [vue-adonis](https://github.com/Atinux/vue-adonis) - Boilerplate for using AdonisJS + Vue.js with server-side rendering
 
 ## Contributing
 
