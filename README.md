@@ -30,7 +30,7 @@
 - [Adonis Rally](https://github.com/adonisjs/adonis-rally) - Forum engine.
 - [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Namespacing library for node/io js.
 - [Adonis Encrypter](https://github.com/pixeleur/adonis-encrypter) - Encryption that uses Static Initialization Vector.
-- [Adonis Queue](https://www.npmjs.com/package/adonis-queue) - A job queuing provider that leverages Bull.
+- [Adonis Kue](https://www.npmjs.com/package/adonis-kue) - A job queuing provider that leverages Kue.
 - [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
 - [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails.
 - [Adonis Ally](https://github.com/adonisjs/adonis-ally) - Social Authentication provider. It gives you the functionality to authenticate users using social websites like Facebook, Twitter, Google, Github etc
