@@ -76,7 +76,7 @@
 
 Found an awesome package, blog, video etc.? Send me a pull request!
 
-But, first, read [contribution guidline](https://github.com/zgabievi/awesome-adonisjs/blob/master/CONTRIBUTING.md).
+But, first, read [contribution guideline](https://github.com/zgabievi/awesome-adonisjs/blob/master/CONTRIBUTING.md).
 
 ## License
 
