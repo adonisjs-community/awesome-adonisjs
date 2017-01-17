@@ -3,14 +3,14 @@
 | [![AdonisJS](https://s12.postimg.org/j2uj6ytz1/Yk1_RNnb_M.jpg)](http://adonisjs.com) | A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem. |
 
 # Table of Contents
-- [Essentials](#essentials)
-- [Packages](#packages)
-- [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
-- [Videos](#videos)
-- [Conferences](#conferences)
-- [Books](#books)
-- [Community](#community)
-- [Miscellaneous](#miscellaneous)
+- [:fire: Essentials](#essentials)
+- [:package: Packages](#packages)
+- [:mortar_board: Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
+- [:tv: Videos](#videos)
+- [:office: Conferences](#conferences)
+- [:books: Books](#books)
+- [:loudspeaker: Community](#community)
+- [:nut_and_bolt: Miscellaneous](#miscellaneous)
 
 ## Essentials
 - [AdonisJS](http://adonisjs.com)
