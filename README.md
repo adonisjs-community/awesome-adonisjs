@@ -80,4 +80,4 @@ But, first, read [contribution guideline](https://github.com/zgabievi/awesome-ad
 
 ## License
 
-Awesome AdonisJS is licensed under a  [MIT License](https://github.com/zgabievi/awesome-adonisjs/blob/master/LICENSE).
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
