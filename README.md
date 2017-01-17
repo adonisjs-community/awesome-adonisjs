@@ -62,8 +62,10 @@
 > There is no information to this content yet
 
 ## Community
-- [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook
 - [Official Twitter](https://twitter.com/adonisframework)
+- [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook Group
+- [AdonisJS Philippines](https://www.facebook.com/groups/adonisjs.philippines/) - Facebook Group
+- [AdonisJS Indonesia](https://www.facebook.com/groups/1255340381204098/) - Facebook Group
 
 ## Miscellaneous
 - [Discussion](https://github.com/adonisjs/discussion) - Discussing about new features and sharing random thoughts
