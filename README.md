@@ -37,6 +37,7 @@
 - [Adonis Internalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers
 - [Adonis Hashids](https://www.npmjs.com/package/adonis-hashids) - Hashids Provider for AdonisJs framework
 - [Adonis Throttle Requests](https://www.npmjs.com/package/adonis-throttle-requests) - Throttle requests middleware for AdonisJs framework
+- [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
