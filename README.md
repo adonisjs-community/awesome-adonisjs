@@ -49,6 +49,7 @@
 - [AdonisJS for Laravel Developers](http://codefortheweb.com/blog/adonisjs-for-laravel-developers)
 - [Great JavaScript Module Management](https://medium.com/@assertchris/effortless-javascript-modules-f6c1059d11d4#.vcx23lblo)
 - [Node.js broken ecosystem and rise of AdonisJs](https://medium.com/@Charles6Andy/node-js-broken-ecosystem-and-rise-of-adonisjs-46e3d63e5fcc#.fkxzcpx0t)
+- [How to make a todo app with AdonisJs](https://madsobel.com/how-to-make-a-todo-app-with-adonisjs)
 
 ## Videos, Courses, etc.
 - [AdonisJs - Getting Started](https://www.youtube.com/watch?v=3dRbd2G9QZI&list=PLWmIA5YpCsizOMoM3tH5NSp1sHmdzVLvW) - Playlist
