@@ -39,6 +39,7 @@
 - [Adonis Throttle Requests](https://www.npmjs.com/package/adonis-throttle-requests) - Throttle requests middleware for AdonisJs framework
 - [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework
 - [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework
+- [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
