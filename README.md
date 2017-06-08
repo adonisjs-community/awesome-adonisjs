@@ -41,6 +41,7 @@
 - [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework
 - [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers
+- [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify)
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
