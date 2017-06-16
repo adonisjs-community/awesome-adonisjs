@@ -1,6 +1,7 @@
 | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | Awesome AdonisJS |
 | ---------------- |:-------------|
 | [![AdonisJS](https://s12.postimg.org/j2uj6ytz1/Yk1_RNnb_M.jpg)](http://adonisjs.com) | A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem. |
+| [![AdonisJS](https://adonis-china.org/logo-china.png)](http://adonis-china.com) | AdonisJs BBS and Documentions in China |
 
 # Table of Contents
 - [:fire: Essentials](#essentials)
@@ -40,7 +41,8 @@
 - [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework
 - [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers
-
+- [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify)
+- [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
 - [Meet AdonisJs! A Laravel-style MVC Framework for Node.js](https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js)
@@ -70,6 +72,7 @@
 - [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook Group
 - [AdonisJS Philippines](https://www.facebook.com/groups/adonisjs.philippines/) - Facebook Group
 - [AdonisJS Indonesia](https://www.facebook.com/groups/1255340381204098/) - Facebook Group
+- [AdonisJS China](https://adonis-china.org/) - AdonisJs China (Built on AdonisJs)
 
 ## Miscellaneous
 - [Discussion](https://github.com/adonisjs/discussion) - Discussing about new features and sharing random thoughts
