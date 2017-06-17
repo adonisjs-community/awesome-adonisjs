@@ -43,6 +43,8 @@
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers
 - [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify)
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
+- [Adonis Rest](https://github.com/wxs77577/adonis-rest) - Restful api for AdonisJs.
+
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
 - [Meet AdonisJs! A Laravel-style MVC Framework for Node.js](https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js)
