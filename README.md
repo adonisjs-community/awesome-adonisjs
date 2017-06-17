@@ -44,6 +44,7 @@
 - [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify)
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
 - [Adonis Rest](https://github.com/wxs77577/adonis-rest) - Restful api for AdonisJs.
+- [Adonis CRUD API](https://github.com/wxs77577/adonis-crud-api) - CRUD restful api for AdonisJs and Adminify, the key is the grid and form routes. Based on Adonis Rest.
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
