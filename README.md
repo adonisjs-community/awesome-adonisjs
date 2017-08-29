@@ -33,15 +33,16 @@
 - [Adonis Kue](https://www.npmjs.com/package/adonis-kue) - A job queuing provider that leverages Kue.
 - [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
 - [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails.
-- [Adonis Ally](https://github.com/adonisjs/adonis-ally) - Social Authentication provider. It gives you the functionality to authenticate users using social websites like Facebook, Twitter, Google, Github etc
-- [Adonis Internalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers
-- [Adonis Hashids](https://www.npmjs.com/package/adonis-hashids) - Hashids Provider for AdonisJs framework
-- [Adonis Throttle Requests](https://www.npmjs.com/package/adonis-throttle-requests) - Throttle requests middleware for AdonisJs framework
-- [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework
-- [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework
-- [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers
-- [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify)
+- [Adonis Ally](https://github.com/adonisjs/adonis-ally) - Social Authentication provider. It gives you the functionality to authenticate users using social websites like Facebook, Twitter, Google, Github etc.
+- [Adonis Internalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers.
+- [Adonis Hashids](https://www.npmjs.com/package/adonis-hashids) - Hashids Provider for AdonisJs framework.
+- [Adonis Throttle Requests](https://www.npmjs.com/package/adonis-throttle-requests) - Throttle requests middleware for AdonisJs framework.
+- [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework.
+- [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework.
+- [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers.
+- [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify).
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
+- [Adonis Fold](https://github.com/poppinss/adonis-fold) - Dependency manager and IoC container for Node.js.
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
@@ -69,6 +70,7 @@
 
 ## Community
 - [Official Twitter](https://twitter.com/adonisframework)
+- [Official Forum](https://forum.adonisjs.com)
 - [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook Group
 - [AdonisJS Philippines](https://www.facebook.com/groups/adonisjs.philippines/) - Facebook Group
 - [AdonisJS Indonesia](https://www.facebook.com/groups/1255340381204098/) - Facebook Group
