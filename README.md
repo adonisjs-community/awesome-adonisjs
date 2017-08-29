@@ -69,6 +69,7 @@
 
 ## Community
 - [Official Twitter](https://twitter.com/adonisframework)
+- [Official Forum](https://forum.adonisjs.com)
 - [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook Group
 - [AdonisJS Philippines](https://www.facebook.com/groups/adonisjs.philippines/) - Facebook Group
 - [AdonisJS Indonesia](https://www.facebook.com/groups/1255340381204098/) - Facebook Group
