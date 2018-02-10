@@ -43,7 +43,7 @@
 - [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify).
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
 - [Adonis Fold](https://github.com/poppinss/adonis-fold) - Dependency manager and IoC container for Node.js.
-- [adonis-apollo-server](https://github.com/ammezie/adonis-apollo-server) - Production-ready Node.js GraphQL server for AdonisJs
+- [Adonis Apollo Server](https://github.com/ammezie/adonis-apollo-server) - Production-ready Node.js GraphQL server for AdonisJs
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
