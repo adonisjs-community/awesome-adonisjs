@@ -44,6 +44,7 @@
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
 - [Adonis Fold](https://github.com/poppinss/adonis-fold) - Dependency manager and IoC container for Node.js.
 - [Adonis Apollo Server](https://github.com/ammezie/adonis-apollo-server) - Production-ready Node.js GraphQL server for AdonisJs
+- [Adonis Bumblebee](https://github.com/rhwilr/adonis-bumblebee) - Api Transformer for AdonisJs Framework
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
