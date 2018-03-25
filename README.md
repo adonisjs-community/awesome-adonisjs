@@ -45,6 +45,7 @@
 - [Adonis Fold](https://github.com/poppinss/adonis-fold) - Dependency manager and IoC container for Node.js.
 - [Adonis Apollo Server](https://github.com/ammezie/adonis-apollo-server) - Production-ready Node.js GraphQL server for AdonisJs
 - [Adonis Bumblebee](https://github.com/rhwilr/adonis-bumblebee) - Api Transformer for AdonisJs Framework
+- [Adonis SumoLogger](https://github.com/carlsonorozco/adonis-sumo-logger) - SumoLogic Driver Provider for AdonisJs Logger.
 
 ## Articles, Tutorials, Blogs, etc.
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
