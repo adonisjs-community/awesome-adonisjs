@@ -88,6 +88,7 @@
 - [Discussion](https://github.com/adonisjs/discussion) - Discussing about new features and sharing random thoughts
 - [vue-adonis](https://github.com/Atinux/vue-adonis) - Boilerplate for using AdonisJS + Vue.js with server-side rendering
 - [AdoNuxt](https://github.com/nuxt/adonuxt) - Starter template for Nuxt.js with AdonisJS
+- [Adonis NextJS Starter](https://github.com/omarkhatibco/adonis-nextjs-starter) - Starter template for Next.js with AdonisJS
 
 ## Contributing
 
