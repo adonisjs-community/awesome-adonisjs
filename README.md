@@ -26,6 +26,7 @@
 - [Adonis Redis](https://github.com/adonisjs/adonis-redis) - Package that makes easier to work with Redis, it has support of pub/sub.
 - [Adonis Validation](https://github.com/adonisjs/adonis-validation-provider) - Validation provider that makes use of indicative under the hood.
 - [Adonis Lucid](https://github.com/adonisjs/adonis-lucid) - Official SQL ORM.
+- [Adonis Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) - Addon for filtering Adonis Lucid ORM
 - [Adonis Config](https://github.com/adonisjs/adonis-config-provider) - Official config provider.
 - [Adonis Rally](https://github.com/adonisjs/adonis-rally) - Forum engine.
 - [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Namespacing library for node/io js.
