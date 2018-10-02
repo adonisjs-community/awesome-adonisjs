@@ -51,6 +51,7 @@
 - [Adonis Bumblebee](https://github.com/rhwilr/adonis-bumblebee) - Api Transformer for AdonisJs Framework
 - [Adonis SumoLogger](https://github.com/carlsonorozco/adonis-sumo-logger) - SumoLogic Driver Provider for AdonisJs Logger.
 - [Adonis Nextjs](https://github.com/omarkhatibco/adonis-nextjs) - A provider to initialize nextjs app with adonis.
+- [Adonis reCAPTCHA](https://github.com/lookinlab/adonis-recaptcha2) - Google reCAPTCHA v2 for AdonisJS
 
 ## Articles, Tutorials, Blogs, etc.
 
