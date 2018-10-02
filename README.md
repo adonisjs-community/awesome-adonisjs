@@ -1,8 +1,9 @@
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | Awesome AdonisJS |
-| ---------------- |:-------------|
-| [![AdonisJS](https://adonisjs.com/images/badge.svg)](http://adonisjs.com) | A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem. |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | Awesome AdonisJS                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| [![AdonisJS](https://adonisjs.com/images/badge.svg)](http://adonisjs.com)                                                                                   | A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem. |
 
 # Table of Contents
+
 - [:fire: Essentials](#essentials)
 - [:package: Packages](#packages)
 - [:mortar_board: Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
@@ -13,12 +14,14 @@
 - [:nut_and_bolt: Miscellaneous](#miscellaneous)
 
 ## Essentials
+
 - [AdonisJS](http://adonisjs.com)
 - [AdonisJS Documentation](http://adonisjs.com/docs/)
 - [AdonisJS CLI](https://github.com/adonisjs/adonis-cli)
 - [AdonisJS GitHub](https://github.com/adonisjs)
 
 ## Packages
+
 - [Adonis Auth](https://github.com/adonisjs/adonis-auth) - Official authentication provider.
 - [Adonis Commands](https://github.com/adonisjs/adonis-commands) - Set of core commands.
 - [Adonis Mail](https://github.com/adonisjs/adonis-mail) - Official email provider.
@@ -50,6 +53,7 @@
 - [Adonis Nextjs](https://github.com/omarkhatibco/adonis-nextjs) - A provider to initialize nextjs app with adonis.
 
 ## Articles, Tutorials, Blogs, etc.
+
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
 - [Meet AdonisJs! A Laravel-style MVC Framework for Node.js](https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js)
 - [AdonisJS - A Laravel-ish Node framework](http://heera.it/adonis-laravel-ish-node-framework#.V9vW2KNh1TJ)
@@ -65,6 +69,7 @@
 - [Build a simple realtime app with Adonis](https://pusher.com/tutorials/adonis-realtime)
 
 ## Videos, Courses, etc.
+
 - [AdonisJs - Getting Started](https://www.youtube.com/watch?v=3dRbd2G9QZI&list=PLWmIA5YpCsizOMoM3tH5NSp1sHmdzVLvW) - Playlist
 - [AdonisJs JSON API](https://www.youtube.com/watch?v=HSZDcSO3EcA&list=PL4j61BsbjVkKe__y9_EPGcHf-WviE8NIp) - Playlist
 - [Learn Node JS in One Day 2017](https://www.youtube.com/watch?v=-tiwWt-938A&list=PL_ZUs2eBjBit6TGK5h0yomhHlCJnq0rh-) - Playlist
@@ -72,12 +77,15 @@
 - [Adonis 4, From Scratch to Saas](https://www.bahdcasts.com/course/adonis-4-from-scratch-to-saas) - A beginners friendly series of screencasts handholding you to create a pratical working application from scratch.
 
 ## Conferences
+
 > There is no information to this content yet
 
 ## Books
+
 - [The Definitive Guide to AdonisJs: Building Node.js Applications with JavaScript](https://www.amazon.com/Definitive-Guide-AdonisJs-Applications-JavaScript/dp/1484233891)
 
 ## Community
+
 - [Official Twitter](https://twitter.com/adonisframework)
 - [Official Forum](https://forum.adonisjs.com)
 - [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook Group
@@ -86,9 +94,11 @@
 - [AdonisJS China](https://adonis-china.org/) - Community Website (Built on AdonisJs)
 
 ## Miscellaneous
+
 - [Discussion](https://github.com/adonisjs/discussion) - Discussing about new features and sharing random thoughts
 - [vue-adonis](https://github.com/Atinux/vue-adonis) - Boilerplate for using AdonisJS + Vue.js with server-side rendering
 - [AdoNuxt](https://github.com/nuxt/adonuxt) - Starter template for Nuxt.js with AdonisJS
+- [Adonis NextJS Starter](https://github.com/omarkhatibco/adonis-nextjs-starter) - Starter template for Next.js with AdonisJS
 
 ## Contributing
 
