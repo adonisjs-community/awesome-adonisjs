@@ -51,6 +51,7 @@
 - [Adonis Bumblebee](https://github.com/rhwilr/adonis-bumblebee) - Api Transformer for AdonisJs Framework
 - [Adonis SumoLogger](https://github.com/carlsonorozco/adonis-sumo-logger) - SumoLogic Driver Provider for AdonisJs Logger.
 - [Adonis Nextjs](https://github.com/omarkhatibco/adonis-nextjs) - A provider to initialize nextjs app with adonis.
+- [Adonis Acl](https://github.com/enniel/adonis-acl) - Adds role based permissions.
 
 ## Articles, Tutorials, Blogs, etc.
 
