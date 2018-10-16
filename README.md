@@ -51,6 +51,7 @@
 - [Adonis Bumblebee](https://github.com/rhwilr/adonis-bumblebee) - Api Transformer for AdonisJs Framework
 - [Adonis SumoLogger](https://github.com/carlsonorozco/adonis-sumo-logger) - SumoLogic Driver Provider for AdonisJs Logger.
 - [Adonis Nextjs](https://github.com/omarkhatibco/adonis-nextjs) - A provider to initialize nextjs app with adonis.
+- [Adonis Lucid Polymorphic](https://github.com/enniel/adonis-lucid-polymorphic) - Addon adds support polymorphic relationships into Adonis Lucid.
 
 ## Articles, Tutorials, Blogs, etc.
 
