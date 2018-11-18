@@ -43,6 +43,7 @@
 - [Adonis Throttle Requests](https://www.npmjs.com/package/adonis-throttle-requests) - Throttle requests middleware for AdonisJs framework.
 - [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework.
 - [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework.
+- [Adonis Nunjucks](https://www.npmjs.com/package/adonis-nunjucks) - Nunjucks templating engine as ViewProvider, so everything works seam-lessly.
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers.
 - [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify).
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
