@@ -43,6 +43,7 @@
 - [Adonis Throttle Requests](https://www.npmjs.com/package/adonis-throttle-requests) - Throttle requests middleware for AdonisJs framework.
 - [Adonis Cache](https://github.com/helnokaly/adonis-cache) - Cache provider for AdonisJS framework.
 - [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework.
+- [Adonis Nunjucks](https://www.npmjs.com/package/adonis-nunjucks) - Nunjucks templating engine as ViewProvider, so everything works seam-lessly.
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers.
 - [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify).
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
@@ -51,7 +52,9 @@
 - [Adonis Bumblebee](https://github.com/rhwilr/adonis-bumblebee) - Api Transformer for AdonisJs Framework
 - [Adonis SumoLogger](https://github.com/carlsonorozco/adonis-sumo-logger) - SumoLogic Driver Provider for AdonisJs Logger.
 - [Adonis Nextjs](https://github.com/omarkhatibco/adonis-nextjs) - A provider to initialize nextjs app with adonis.
-- [Adonis Acl](https://github.com/enniel/adonis-acl) - Adds role based permissions.
+- [Adonis ACL](https://github.com/enniel/adonis-acl) - Adds role based permissions.
+- [Adonis Lucid Polymorphic](https://github.com/enniel/adonis-lucid-polymorphic) - Addon adds support polymorphic relationships into Adonis Lucid.
+- [Adonis Notifications](https://github.com/enniel/adonis-notifications) - A provider for easy sending notifications (Inspired Laravel Notifications).
 
 ## Articles, Tutorials, Blogs, etc.
 
@@ -76,6 +79,7 @@
 - [Learn Node JS in One Day 2017](https://www.youtube.com/watch?v=-tiwWt-938A&list=PL_ZUs2eBjBit6TGK5h0yomhHlCJnq0rh-) - Playlist
 - [Build a forum with AdonisJS](https://www.codecourse.com/lessons/build-a-forum-with-adonis-js) - A premium course by codecourse.com, showing how to build a forum. The course has 37 videos and covers a lot of ground.
 - [Adonis 4, From Scratch to Saas](https://www.bahdcasts.com/course/adonis-4-from-scratch-to-saas) - A beginners friendly series of screencasts handholding you to create a pratical working application from scratch.
+- [Learn AdonisJs from zero to deploy](http://www.learnadonisjs.com) - A premium project-based course where you get to learn AdonisJs by building a production-ready podcast app completely from scratch.
 
 ## Conferences
 
