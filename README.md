@@ -74,7 +74,6 @@
 - [How to make a todo app with AdonisJs](https://madsobel.com/how-to-make-a-todo-app-with-adonisjs)
 - [Build a chat app with Adonis](https://pusher.com/tutorials/chat-adonisjs)
 - [Build a simple realtime app with Adonis](https://pusher.com/tutorials/adonis-realtime)
-- [Node.js broken ecosystem and rise of AdonisJs](https://medium.com/@Charles6Andy/node-js-broken-ecosystem-and-rise-of-adonisjs-46e3d63e5fcc)
 
 ## Videos, Courses, etc.
 
