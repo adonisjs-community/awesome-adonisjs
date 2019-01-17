@@ -74,6 +74,7 @@
 - [How to make a todo app with AdonisJs](https://madsobel.com/how-to-make-a-todo-app-with-adonisjs)
 - [Build a chat app with Adonis](https://pusher.com/tutorials/chat-adonisjs)
 - [Build a simple realtime app with Adonis](https://pusher.com/tutorials/adonis-realtime)
+- [My takeaways from building a job board with AdonisJs 4](https://hackernoon.com/my-takeaways-from-building-a-job-board-with-adonisjs-4-f4071d98a929)
 
 ## Videos, Courses, etc.
 
@@ -108,6 +109,7 @@
 - [AdoNuxt](https://github.com/nuxt/adonuxt) - Starter template for Nuxt.js with AdonisJS
 - [Adonis NextJS Starter](https://github.com/omarkhatibco/adonis-nextjs-starter) - Starter template for Next.js with AdonisJS
 - [Adonis Hackathon Starter](https://github.com/iamraphson/adonisjs-hackathon-starter) - Awesome boilerplate with auth and api integration examples
+- [MadeWithAdonisJs: Show and discover projects built with AdonisJs](https://madewithadonisjs.com/)
 
 ## Contributing
 
