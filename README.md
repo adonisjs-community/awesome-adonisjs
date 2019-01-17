@@ -100,6 +100,7 @@
 - [AdonisJS Georgia](https://www.facebook.com/groups/adonisjs.georgia/) - Facebook Group
 - [AdonisJS Philippines](https://www.facebook.com/groups/adonisjs.philippines/) - Facebook Group
 - [AdonisJS Indonesia](https://www.facebook.com/groups/1255340381204098/) - Facebook Group
+- [AdonisJS Brazil](https://www.facebook.com/groups/2199502930282668/) - Facebook Group
 - [AdonisJS China](https://adonis-china.org/) - Community Website (Built on AdonisJs)
 
 ## Miscellaneous
