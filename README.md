@@ -82,7 +82,7 @@
 - [AdonisJs JSON API](https://www.youtube.com/watch?v=HSZDcSO3EcA&list=PL4j61BsbjVkKe__y9_EPGcHf-WviE8NIp) - Playlist
 - [Learn Node JS in One Day 2017](https://www.youtube.com/watch?v=-tiwWt-938A&list=PL_ZUs2eBjBit6TGK5h0yomhHlCJnq0rh-) - Playlist
 - [Build a forum with AdonisJS](https://www.codecourse.com/lessons/build-a-forum-with-adonis-js) - A premium course by codecourse.com, showing how to build a forum. The course has 37 videos and covers a lot of ground.
-- [Adonis 4, From Scratch to Saas](https://www.bahdcasts.com/course/adonis-4-from-scratch-to-saas) - A beginners friendly series of screencasts handholding you to create a pratical working application from scratch.
+- [Adonis 4, From Scratch to Saas](https://www.bahdcasts.com/courses/adonis-4-from-scratch-to-saas) - A beginners friendly series of screencasts handholding you to create a pratical working application from scratch.
 - [Learn AdonisJs from zero to deploy](http://www.learnadonisjs.com) - A premium project-based course where you get to learn AdonisJs by building a production-ready podcast app completely from scratch.
 
 ## Conferences
