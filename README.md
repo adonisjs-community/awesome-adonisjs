@@ -57,6 +57,7 @@
 - [Adonis Soft Deletes](https://github.com/radmen/adonis-lucid-soft-deletes) - SoftDeletes support in Lucid.
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
 - [Adonis SumoLogger](https://github.com/carlsonorozco/adonis-sumo-logger) - SumoLogic Driver Provider for AdonisJs Logger.
+- [Adonis Throttle](https://github.com/masasron/adonis-throttle) - A rate limiter for Adonis JS.
 - [Adonis Throttle Requests](https://www.npmjs.com/package/adonis-throttle-requests) - Throttle requests middleware for AdonisJs framework.
 - [Adonis Validation](https://github.com/adonisjs/adonis-validation-provider) - Validation provider that makes use of indicative under the hood.
 
