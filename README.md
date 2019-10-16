@@ -110,7 +110,6 @@
 - [AdoNuxt](https://github.com/nuxt/adonuxt) - Starter template for Nuxt.js with AdonisJS
 - [Adonis NextJS Starter](https://github.com/omarkhatibco/adonis-nextjs-starter) - Starter template for Next.js with AdonisJS
 - [Adonis Hackathon Starter](https://github.com/iamraphson/adonisjs-hackathon-starter) - Awesome boilerplate with auth and api integration examples
-- [MadeWithAdonisJs](https://madewithadonisjs.com/) - Show and discover projects built with AdonisJs
 
 ## Contributing
 
