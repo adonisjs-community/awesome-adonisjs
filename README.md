@@ -33,6 +33,7 @@
 - [Adonis Encrypter](https://github.com/pixeleur/adonis-encrypter) - Encryption that uses Static Initialization Vector.
 - [Adonis Fold](https://github.com/poppinss/adonis-fold) - Dependency manager and IoC container for Node.js.
 - [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails.
+- [Adonis Guard](https://github.com/RomainLanz/adonis-guard) - Authorization provider built on top of @slynova/fence 
 - [Adonis Hashids](https://www.npmjs.com/package/adonis-hashids) - Hashids Provider for AdonisJs framework.
 - [Adonis Internalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers.
 - [Adonis Ironium](https://www.npmjs.com/package/adonis-ironium) - A job queuing provider that leverages [Ironium](https://www.npmjs.com/package/ironium).
