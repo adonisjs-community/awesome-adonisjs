@@ -7,7 +7,7 @@
 - [:fire: Essentials](#essentials)
 - [:package: Packages](#packages)
 - [:mortar_board: Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
-- [:tv: Videos](#videos)
+- [:tv: Videos, Courses, etc.](#videos-courses-etc)
 - [:office: Conferences](#conferences)
 - [:books: Books](#books)
 - [:loudspeaker: Community](#community)
