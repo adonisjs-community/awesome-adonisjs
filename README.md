@@ -94,6 +94,7 @@
 ## Books
 
 - [The Definitive Guide to AdonisJs: Building Node.js Applications with JavaScript](https://www.amazon.com/Definitive-Guide-AdonisJs-Applications-JavaScript/dp/1484233891)
+- [Hands-On AdonisJs](https://leanpub.com/handsonadonisjsthelaravelflavournodeframework)
 
 ## Community
 
