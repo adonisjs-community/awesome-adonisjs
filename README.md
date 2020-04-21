@@ -68,6 +68,7 @@
 ## Articles, Tutorials, Blogs, etc.
 
 - [Adonis Official Blog](https://adonisjs.svbtle.com)
+- [AdonisJS Fundamentals](https://howtocode.io/adonis-js-fundamentals-1-intro-setup/)
 - [Meet AdonisJs! A Laravel-style MVC Framework for Node.js](https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js)
 - [AdonisJS - A Laravel-ish Node framework](http://heera.it/adonis-laravel-ish-node-framework#.V9vW2KNh1TJ)
 - [Basic Authentication With AdonisJs](https://adonisjs.svbtle.com/basic-authentication-with-adonisjs)
