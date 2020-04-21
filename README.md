@@ -53,6 +53,7 @@
 - [Adonis reCAPTCHA](https://github.com/lookinlab/adonis-recaptcha2) - Google reCAPTCHA v2 for AdonisJS
 - [Adonis Redis](https://github.com/adonisjs/adonis-redis) - Package that makes easier to work with Redis, it has support of pub/sub.
 - [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
+- [Adonis Sentry](https://github.com/JezielK/adonis-sentry) - Sentry provider for adonis framework.
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers.
 - [Adonis Soft Deletes](https://github.com/radmen/adonis-lucid-soft-deletes) - SoftDeletes support in Lucid.
 - [Adonis Simple Soft Deletes](https://github.com/eiipaw/adonis-soft-deletes) - Basic soft deletes support in Lucid.
