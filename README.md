@@ -35,7 +35,7 @@
 - [Adonis Generators](https://github.com/rtablada/adonis-generators) - Contains generators for Adonis Models and Migrations ala Rails.
 - [Adonis Guard](https://github.com/RomainLanz/adonis-guard) - Authorization provider built on top of @slynova/fence 
 - [Adonis Hashids](https://www.npmjs.com/package/adonis-hashids) - Hashids Provider for AdonisJs framework.
-- [Adonis Internalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers.
+- [Adonis Internationalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers.
 - [Adonis Ironium](https://www.npmjs.com/package/adonis-ironium) - A job queuing provider that leverages [Ironium](https://www.npmjs.com/package/ironium).
 - [Adonis Kue](https://www.npmjs.com/package/adonis-kue) - A job queuing provider that leverages [Kue](https://www.npmjs.com/package/kue).
 - [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Namespacing library for node/io js.
