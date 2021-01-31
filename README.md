@@ -82,7 +82,7 @@
 - [Build a chat app with Adonis](https://pusher.com/tutorials/chat-adonisjs)
 - [Build a simple realtime app with Adonis](https://pusher.com/tutorials/adonis-realtime)
 - [My takeaways from building a job board with AdonisJs 4](https://hackernoon.com/my-takeaways-from-building-a-job-board-with-adonisjs-4-f4071d98a929)
-- [Let's learn Adonis 5](https://jagr.co/series/lets-learn-adonis-5)
+- [Let's Learn Adonis 5](https://jagr.co/series/lets-learn-adonis-5)
 
 ## Videos, Courses, etc.
 
@@ -91,6 +91,7 @@
 - [Learn Node JS in One Day 2017](https://www.youtube.com/watch?v=-tiwWt-938A&list=PL_ZUs2eBjBit6TGK5h0yomhHlCJnq0rh-) - Playlist
 - [Build a forum with AdonisJS](https://www.codecourse.com/lessons/build-a-forum-with-adonis-js) - A premium course by codecourse.com, showing how to build a forum. The course has 37 videos and covers a lot of ground.
 - [Learn AdonisJs from zero to deploy](http://www.learnadonisjs.com) - A premium project-based course where you get to learn AdonisJs by building a production-ready podcast app completely from scratch.
+- [Let's Learn Adonis 5](https://youtube.com/playlist?list=PL9dIWiKCV5706cNQU40C-y1vch2AfBYjP)
 
 ## Conferences
 
