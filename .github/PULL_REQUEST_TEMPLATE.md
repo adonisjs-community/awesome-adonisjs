@@ -1,1 +1,1 @@
-- [ ] I have read the [contributing guide](CONTRIBUTING.md) before creating this PR.
+- [ ] I have read the [contributing guide](https://github.com/adonisjs-community/awesome-adonisjs/blob/master/CONTRIBUTING.md) before creating this PR.
