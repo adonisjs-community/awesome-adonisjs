@@ -16,9 +16,9 @@
 
 - [AdonisJS official website](http://adonisjs.com)
 - [AdonisJS documentation](http://docs.adonisjs.com)
-- [AdonisJS gitHub](https://github.com/adonisjs)
+- [AdonisJS github](https://github.com/adonisjs)
 - [AdonisJS discussions forum](https://github.com/adonisjs/core/discussions)
-- [AdonisJS twitter](https://twitter.com/notifications)
+- [AdonisJS twitter](https://twitter.com/adonisframework)
 
 ## Packages
 
