@@ -22,6 +22,8 @@
 
 ## Packages
 
+- [AdonisJS Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) – Addon for filtering AdonisJS Lucid ORM
+
 ## Articles, tutorials, and blog posts
 
 ## Videos and courses
