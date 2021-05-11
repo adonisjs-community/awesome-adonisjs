@@ -22,6 +22,7 @@
 
 ## Packages
 
+- [AdonisJS Firebase Cloud Messaging](https://github.com/lookinlab/adonis-fcm) – The wrapper for send messages to Firebase Cloud Messaging
 - [AdonisJS Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) – Addon for filtering AdonisJS Lucid ORM
 
 ## Articles, tutorials, and blog posts
