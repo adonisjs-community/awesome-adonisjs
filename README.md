@@ -2,7 +2,7 @@
   <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
-  <img width="600" src="https://res.cloudinary.com/adonis-js/image/upload/v1620728854/adonis-banner_snfkyy.jpg" alt="Jamstack">
+  <img width="250" src="https://res.cloudinary.com/adonis-js/image/upload/v1620729815/logo-color_vxa8sa.png" alt="Jamstack">
   <br /><br /><br />
   <p>
     <strong>AdonisJS</strong> is a fully featured web framework for Node.js. It includes everything you need to create a fully functional web app or an API server.
