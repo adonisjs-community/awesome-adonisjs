@@ -1,31 +1,16 @@
-<div align="center">
-  <br /><br />
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
-  <br /><br /><br />
-  <img width="250" src="https://res.cloudinary.com/adonis-js/image/upload/v1620729815/logo-color_vxa8sa.png" alt="Jamstack">
-  <br /><br /><br />
-  <p>
-    <strong>AdonisJS</strong> is a fully featured web framework for Node.js. It includes everything you need to create a fully functional web app or an API server.
-  </p>
-  <br /><br />
-  <p>
-    <b>
-      This is a carefully curated list of awesome <a href="https://adonisjs.com">AdonisJS</a> resources.
-    </b>
-  </p>
-  <br /><br />
-  <p>
-    <i>
-      We would like to thank <a href="https://github.com/zgabievi">Zura Gabievi</a> for maintaining this repo for repos and transferring it to the core team.
-    </i>
-  </p>
-  <p>
-    <i>
-      Want to contribute with some resource? Great! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing.
-    </i>
-  </p>
-  <br /><br />
-</div>
+# Awesome AdonisJS [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="adonis-icon.png" align="right" width="100">](https://preactjs.com)
+
+> This is a carefully curated list of awesome [AdonisJS](https://adonisjs.com) resources :star2:
+
+**AdonisJS** is a fully featured web framework for Node.js. It includes everything you need to create a fully functional web app or an API server.
+
+---
+
+<br />
+
+*We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintaining this repo for repos and transferring it to the core team.*
 
 ## Essentials
 
@@ -46,6 +31,10 @@
 ## Community
 
 ## Miscellaneous
+
+## Contributing
+
+Want to contribute with some resource? Great! Please, read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## License
 

@@ -1,1 +1,1 @@
-- [ ] I have read the [contributing guide]() before creating this PR.
+- [ ] I have read the [contributing guide](CONTRIBUTING.md) before creating this PR.
