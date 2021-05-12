@@ -24,6 +24,7 @@
 
 - [AdonisJS Firebase Cloud Messaging](https://github.com/lookinlab/adonis-fcm) – The wrapper for send messages to Firebase Cloud Messaging
 - [AdonisJS Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) – Addon for filtering AdonisJS Lucid ORM
+- [AdonisJS Inertia Provider](https://github.com/eidellev/inertiajs-adonisjs) - Allows you to build server-driven single page apps using [Inertia.js](https://inertiajs.com/)
 
 ## Articles, tutorials, and blog posts
 
