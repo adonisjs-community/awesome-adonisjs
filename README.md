@@ -39,6 +39,7 @@
 - [Adonis Ironium](https://www.npmjs.com/package/adonis-ironium) - A job queuing provider that leverages [Ironium](https://www.npmjs.com/package/ironium).
 - [Adonis Kue](https://www.npmjs.com/package/adonis-kue) - A job queuing provider that leverages [Kue](https://www.npmjs.com/package/kue).
 - [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Namespacing library for node/io js.
+- [Adonis Slack Logger](https://github.com/Shagital/adonisjs-logger-slack) - Add slack logger to adonisjs logger class
 - [Adonis Lucid](https://github.com/adonisjs/adonis-lucid) - Official SQL ORM.
 - [Adonis Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) - Addon for filtering Adonis Lucid ORM
 - [Adonis Lucid Polymorphic](https://github.com/enniel/adonis-lucid-polymorphic) - Addon adds support polymorphic relationships into Adonis Lucid.
