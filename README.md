@@ -39,7 +39,6 @@
 - [Adonis Ironium](https://www.npmjs.com/package/adonis-ironium) - A job queuing provider that leverages [Ironium](https://www.npmjs.com/package/ironium).
 - [Adonis Kue](https://www.npmjs.com/package/adonis-kue) - A job queuing provider that leverages [Kue](https://www.npmjs.com/package/kue).
 - [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Namespacing library for node/io js.
-- [Adonis Slack Logger](https://github.com/Shagital/adonisjs-logger-slack) - Add slack logger to adonisjs logger class
 - [Adonis Lucid](https://github.com/adonisjs/adonis-lucid) - Official SQL ORM.
 - [Adonis Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) - Addon for filtering Adonis Lucid ORM
 - [Adonis Lucid Polymorphic](https://github.com/enniel/adonis-lucid-polymorphic) - Addon adds support polymorphic relationships into Adonis Lucid.
@@ -56,6 +55,7 @@
 - [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
 - [Adonis Sentry](https://github.com/JezielK/adonis-sentry) - Sentry provider for adonis framework.
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers.
+- [Adonis Slack Logger](https://github.com/Shagital/adonisjs-logger-slack) - Add slack logger to adonisjs logger class
 - [Adonis Soft Deletes](https://github.com/radmen/adonis-lucid-soft-deletes) - SoftDeletes support in Lucid.
 - [Adonis Simple Soft Deletes](https://github.com/eiipaw/adonis-soft-deletes) - Basic soft deletes support in Lucid.
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
