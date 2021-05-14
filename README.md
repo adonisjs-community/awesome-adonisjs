@@ -55,6 +55,7 @@
 - [Adonis Scheduler](https://www.npmjs.com/package/adonis-scheduler) - Provides an easy way to schedule recurring tasks.
 - [Adonis Sentry](https://github.com/JezielK/adonis-sentry) - Sentry provider for adonis framework.
 - [Adonis Sink](https://github.com/adonisjs/adonis-sink) - Development Toolbox for writing tests for your own AdonisJs providers.
+- [Adonis Slack Logger](https://github.com/Shagital/adonisjs-logger-slack) - Add slack logger to adonisjs logger class
 - [Adonis Soft Deletes](https://github.com/radmen/adonis-lucid-soft-deletes) - SoftDeletes support in Lucid.
 - [Adonis Simple Soft Deletes](https://github.com/eiipaw/adonis-soft-deletes) - Basic soft deletes support in Lucid.
 - [Adonis Storage](https://github.com/nrempel/adonis-storage) - A storage provider for the Adonis framework.
