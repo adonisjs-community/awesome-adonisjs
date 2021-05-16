@@ -35,6 +35,8 @@
 
 ## Videos and courses
 
+- [Let's learn AdonisJS](https://jagr.co/series/lets-learn-adonis-5) - A series for screencasts to learn the framework from scratch
+
 ## Books
 
 ## Community
