@@ -25,8 +25,13 @@
 - [AdonisJS Firebase Cloud Messaging](https://github.com/lookinlab/adonis-fcm) – The wrapper for send messages to Firebase Cloud Messaging
 - [AdonisJS Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) – Addon for filtering AdonisJS Lucid ORM
 - [AdonisJS Inertia Provider](https://github.com/eidellev/inertiajs-adonisjs) - Allows you to build server-driven single page apps using [Inertia.js](https://inertiajs.com/)
+- [Adonis Class Validator](https://github.com/tnkemdilim/adonis-class-validator) - Adonis Class Validator provides a means to validate a request data using a class based schema
+- [adonis-mix-asset](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS v5 application
+- 
 
 ## Articles, tutorials, and blog posts
+
+- [Adonis V5 (MongoDB) provider](https://mcsneaky.ap3k.pro/posts/adonis-v5-provider/) - An article covering how to use MongoDB in your AdonisJS projects
 
 ## Videos and courses
 
@@ -35,6 +40,8 @@
 ## Community
 
 ## Miscellaneous
+
+- [Node ace ZSH completions](https://github.com/romch007/node-ace-zsh-completion) - ZSH completions for the node ace commandline
 
 ## Contributing
 
