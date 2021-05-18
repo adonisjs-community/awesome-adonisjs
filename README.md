@@ -26,7 +26,7 @@
 - [AdonisJS Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) – Addon for filtering AdonisJS Lucid ORM
 - [AdonisJS Inertia Provider](https://github.com/eidellev/inertiajs-adonisjs) - Allows you to build server-driven single page apps using [Inertia.js](https://inertiajs.com/)
 - [Adonis Class Validator](https://github.com/tnkemdilim/adonis-class-validator) - Adonis Class Validator provides a means to validate a request data using a class based schema
-- [Adonis Mix Assets](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS v5 application
+- [Adonis Mix Asset](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS application
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
 
 ## Articles, tutorials, and blog posts
