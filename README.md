@@ -36,6 +36,7 @@
 ## Videos and courses
 
 - [Let's learn AdonisJS](https://jagr.co/series/lets-learn-adonis-5) - A series for screencasts to learn the framework from scratch
+- [Using MJML with AdonisJS](https://www.youtube.com/watch?v=zehb-qUzRCM) - A screencast showcasing how to use MJML markup language with the AdonisJS mailer
 
 ## Books
 
