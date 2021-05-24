@@ -28,6 +28,7 @@
 - [Adonis Class Validator](https://github.com/tnkemdilim/adonis-class-validator) - Adonis Class Validator provides a means to validate a request data using a class based schema
 - [Adonis Mix Asset](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS application
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
+- [Adonis Stripe](https://github.com/mezielabs/adonis-stripe) - This package makes it seamless to work with Stripe in AdonisJS 5 applications.
 
 ## Articles, tutorials, and blog posts
 
