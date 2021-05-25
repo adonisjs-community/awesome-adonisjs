@@ -32,6 +32,7 @@
 ## Articles, tutorials, and blog posts
 
 - [Adonis V5 (MongoDB) provider](https://mcsneaky.ap3k.pro/posts/adonis-v5-provider/) - An article covering how to use MongoDB in your AdonisJS projects
+- [Set up TailwindCSS using the default Encore package](https://ivanprats.dev/blog/set-up-tailwindcss-in-new-adonis5/) - A quick article explaining what dependencies to install and configuration to add to set up TailwindCSS in a Adonis 5 application, using the default Webpack Encore package for assets management.
 
 ## Videos and courses
 
