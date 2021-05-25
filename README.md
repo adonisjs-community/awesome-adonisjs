@@ -28,6 +28,7 @@
 - [Adonis Class Validator](https://github.com/tnkemdilim/adonis-class-validator) - Adonis Class Validator provides a means to validate a request data using a class based schema
 - [Adonis Mix Asset](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS application
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
+- [Adonis Stripe](https://github.com/mezielabs/adonis-stripe) - This package makes it seamless to work with Stripe in AdonisJS 5 applications.
 
 ## Articles, tutorials, and blog posts
 
@@ -38,6 +39,9 @@
 
 - [Let's learn AdonisJS](https://jagr.co/series/lets-learn-adonis-5) - A series for screencasts to learn the framework from scratch
 - [Using MJML with AdonisJS](https://www.youtube.com/watch?v=zehb-qUzRCM) - A screencast showcasing how to use MJML markup language with the AdonisJS mailer
+- [AdonisJS 5 From Scratch](https://adonismastery.com/courses/adonisjs-5-from-scratch) - A project-based course, where you get to learn AdonisJS 5 by building. We'll cover each aspect of the framework while we gradually build a tasks application.
+- [Authentication with multiple IDs in AdonisJS 5](https://adonismastery.com/watch/authentication-with-multiple-ids-in-adonisjs-5) - A screencast showing how to allow users to log in with multiple IDs in an AdonisJS 5 application.
+- [AdonisJS 5: from preview to stable](https://adonismastery.com/watch/adonisjs-5:-from-preview-to-stable) - A screencast walking you through how to migrate an application built with the preview version of AdonisJS 5 to the stable version of AdonisJS 5.
 
 ## Books
 
