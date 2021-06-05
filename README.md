@@ -29,6 +29,10 @@
 - [Adonis Mix Asset](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS application
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
 - [Adonis Stripe](https://github.com/mezielabs/adonis-stripe) - This package makes it seamless to work with Stripe in AdonisJS 5 applications.
+- [Adonis Swagger](https://github.com/reg2005/adonis5-swagger) - Swagger for Adonis 5
+- [Adonis Sentry](https://github.com/reg2005/adonis5-sentry) - Sentry for Adonis 5
+- [Adonis Cache](https://github.com/reg2005/adonis5-cache) - Cache provider for Adonis 5.
+- [Adonis BullMQ](https://github.com/reg2005/adonis5-bullmq) - Simple BullMQ provider for you own queue commands
 
 ## Articles, tutorials, and blog posts
 
