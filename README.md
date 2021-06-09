@@ -55,6 +55,7 @@
 ## Miscellaneous
 
 - [Node ace ZSH completions](https://github.com/romch007/node-ace-zsh-completion) - ZSH completions for the node ace commandline
+- [Youtube Downloader](https://gitlab.com/McSneaky/youtube-downloader) - Youtube video and audio downloader as example project featuring dockerizing, response streaming and Gitlab CI automatic build + deploy
 
 ## Contributing
 
