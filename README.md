@@ -56,6 +56,7 @@
 
 - [Node ace ZSH completions](https://github.com/romch007/node-ace-zsh-completion) - ZSH completions for the node ace commandline
 - [Youtube Downloader](https://gitlab.com/McSneaky/youtube-downloader) - Youtube video and audio downloader as example project featuring dockerizing, response streaming and Gitlab CI automatic build + deploy
+- [Akpoho Invoicing Software](https://github.com/ndianabasi/akpoho-invoicing-software) - An open-source SaaS-grade application which provides invoicing, quotations, and receipts functionalities for small businesses. Akpoho Software is built with the amazing Adonis JS V5 as the backend.
 
 ## Contributing
 
