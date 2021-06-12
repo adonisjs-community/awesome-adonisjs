@@ -58,6 +58,77 @@
 - [Youtube Downloader](https://gitlab.com/McSneaky/youtube-downloader) - Youtube video and audio downloader as example project featuring dockerizing, response streaming and Gitlab CI automatic build + deploy
 - [Akpoho Invoicing Software](https://github.com/ndianabasi/akpoho-invoicing-software) - An open-source SaaS-grade application which provides invoicing, quotations, and receipts functionalities for small businesses. Akpoho Software is built with the amazing Adonis JS V5 as the backend.
 
+## Companies/Projects using AdonisJS
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./assets/cleavr.png" alt="" width="150px;"></td>
+      <td><a href="https://cleavr.io/">https://cleavr.io/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/doclify.png" alt="" width="160px;"></td>
+      <td><a href="https://doclify.io/">https://doclify.io/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/cavai.png" alt="" width="90px;"></td>
+      <td><a href="https://cavai.com/">https://cavai.com/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/kayako.png" alt="" width="150px;"></td>
+      <td><a href="http://kayako.com/">http://kayako.com/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/paytm.png" alt="" width="120px;"></td>
+      <td><a href="https://paytm.com/">https://paytm.com/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/petty-save.png" alt="" width="140px;"></td>
+      <td><a href="https://pettysave.com/">https://pettysave.com/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/voyager.png" alt="" width="140px;"></td>
+      <td><a href="https://voyagerportal.com/">https://voyagerportal.com/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/ask-your-pharmacist.png" alt="" width="200px;"></td>
+      <td><a href="https://askyourpharmacist.ca/">https://askyourpharmacist.ca/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/adonis-mastery.png" alt="" width="200px;"></td>
+      <td><a href="https://adonismastery.com">https://adonismastery.com</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/zaychin.png" alt="" width="80px;"></td>
+      <td><a href="http://zaychin.com">http://zaychin.com</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/medical-world-nigeria.png" alt="" width="120px;"></td>
+      <td><a href="https://medicalworldnigeria.com">https://medicalworldnigeria.com</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/onli.png" alt="" width="120px;"></td>
+      <td><a href="https://www.onli.com.br">https://www.onli.com.br</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/atislabs.png" alt="" width="120px;"></td>
+      <td><a href="https://tools.atislabs.com.br/covid">https://tools.atislabs.com.br/covid</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/adeo.png" alt="" width="120px;"></td>
+      <td><a href="https://www.adeo.com/en/adeo/key-figures">https://www.adeo.com/en/adeo/key-figures</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/leroymerlin.png" alt="" width="120px;"></td>
+      <td><a href="https://www.leroymerlin.com/">https://www.leroymerlin.com/</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/crenet.png" alt="" width="120px;"></td>
+      <td><a href="https://www.crenet.io">https://www.crenet.io</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Contributing
 
 Want to contribute with some resource? Great! Please, read the [contribution guidelines](CONTRIBUTING.md) before contributing.
