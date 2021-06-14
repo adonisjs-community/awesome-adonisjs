@@ -126,6 +126,10 @@
       <td><img src="./assets/crenet.png" alt="" width="120px;"></td>
       <td><a href="https://www.crenet.io">https://www.crenet.io</a></td>
     </tr>
+    <tr>
+      <td><img src="https://docs.gotedo.com/img/docs/getting-started/introduction/Gotedo-Introduction-Header-Light-Mode.png" alt="" width="120px;"></td>
+      <td><a href="https://gotedo.com">Gotedo Church Management Software</a></td>
+    </tr>
   </tbody>
 </table>
 
