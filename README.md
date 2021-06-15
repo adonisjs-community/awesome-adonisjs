@@ -130,6 +130,10 @@
       <td><img src="./assets/gotedo-church-management-software.png" alt="Gotedo Church Management Software Logo" width="120px;"></td>
       <td><a href="https://gotedo.com">Gotedo Church Management Software</a></td>
     </tr>
+    <tr>
+      <td><img src="./assets/mycater.png" alt="My Cater Logo" width="140px;"></td>
+      <td><a href="https://mycater.fr">MyCater</a></td>
+    </tr>
   </tbody>
 </table>
 
