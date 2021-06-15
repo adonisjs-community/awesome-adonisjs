@@ -56,7 +56,7 @@
 
 - [Node ace ZSH completions](https://github.com/romch007/node-ace-zsh-completion) - ZSH completions for the node ace commandline
 - [Youtube Downloader](https://gitlab.com/McSneaky/youtube-downloader) - Youtube video and audio downloader as example project featuring dockerizing, response streaming and Gitlab CI automatic build + deploy
-- [Akpoho Invoicing Software](https://github.com/ndianabasi/akpoho-invoicing-software) - An open-source SaaS-grade application which provides invoicing, quotations, and receipts functionalities for small businesses. Akpoho Software is built with the amazing Adonis JS V5 as the backend.
+- [Akpoho Invoicing Software](https://github.com/ndianabasi/akpoho-invoicing-software) - An open-source SaaS-grade application which provides invoicing, quotations, and receipts functionalities for small businesses. Akpoho Software is built with the amazing AdonisJS 5 as the backend, so you can study the source codes and learn how to build your SaaS application with AdonisJS.
 
 ## Companies/Projects using AdonisJS
 
@@ -125,6 +125,10 @@
     <tr>
       <td><img src="./assets/crenet.png" alt="" width="120px;"></td>
       <td><a href="https://www.crenet.io">https://www.crenet.io</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/gotedo-church-management-software.png" alt="Gotedo Church Management Software Logo" width="120px;"></td>
+      <td><a href="https://gotedo.com">Gotedo Church Management Software</a></td>
     </tr>
   </tbody>
 </table>
