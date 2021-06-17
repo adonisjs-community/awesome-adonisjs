@@ -134,6 +134,10 @@
       <td><img src="./assets/mycater.png" alt="My Cater Logo" width="140px;"></td>
       <td><a href="https://mycater.fr">MyCater</a></td>
     </tr>
+    <tr>
+      <td><img src="./assets/lightoj.png" alt="LightOJ Logo" width="120px;"></td>
+      <td><a href="https://lightoj.com">LightOJ</a></td>
+    </tr>
   </tbody>
 </table>
 
