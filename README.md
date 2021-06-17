@@ -10,7 +10,7 @@
 
 <br />
 
-*We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintaining this repo for repos and transferring it to the core team.*
+*We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintaining this repo for years and transferring it to the core team.*
 
 ## Essentials
 
