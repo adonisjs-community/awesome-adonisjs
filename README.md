@@ -34,6 +34,7 @@
 - [Adonis Cache](https://github.com/reg2005/adonis5-cache) - Cache provider for Adonis 5.
 - [Adonis BullMQ](https://github.com/reg2005/adonis5-bullmq) - Simple BullMQ provider for you own queue commands
 - [Adonis Request throttler](https://github.com/reg2005/adonis-request-throttler) - Middleware for Request throttling
+- [Adonis Redis RPC](https://github.com/reg2005/adonis5-redis-rpc) - Simple RPC Provider for Adonis 5, based on Redis pub/sub transport
 
 ## Articles, tutorials, and blog posts
 
