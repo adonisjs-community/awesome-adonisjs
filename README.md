@@ -43,6 +43,7 @@
 
 ## Videos and courses
 
+- [AdonisJS Crash Course](https://www.youtube.com/watch?v=bSvw887ptKI) - A concise crash course showing how to create a simple **pets** API using AdonisJS
 - [Let's learn AdonisJS](https://jagr.co/series/lets-learn-adonis-5) - A series for screencasts to learn the framework from scratch
 - [Using MJML with AdonisJS](https://www.youtube.com/watch?v=zehb-qUzRCM) - A screencast showcasing how to use MJML markup language with the AdonisJS mailer
 - [AdonisJS 5 From Scratch](https://adonismastery.com/courses/adonisjs-5-from-scratch) - A project-based course, where you get to learn AdonisJS 5 by building. We'll cover each aspect of the framework while we gradually build a tasks application.
