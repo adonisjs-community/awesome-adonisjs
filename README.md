@@ -36,6 +36,7 @@
 - [AdonisJS reCAPTCHA v2](https://github.com/lookinlab/adonis-recaptcha2) - Verifier for Google ReCAPTCHA v2
 - [Adonis Request throttler](https://github.com/reg2005/adonis-request-throttler) - Middleware for Request throttling
 - [Adonis Redis RPC](https://github.com/reg2005/adonis5-redis-rpc) - Simple RPC Provider for Adonis 5, based on Redis pub/sub transport
+- [Adonis Lucid slugify](https://github.com/adonisjs/lucid-slugify) - Generate unique slugs from your Lucid models
 
 ## Articles, tutorials, and blog posts
 
