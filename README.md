@@ -72,6 +72,10 @@
       <td><a href="https://cleavr.io/">https://cleavr.io/</a></td>
     </tr>
     <tr>
+      <td><img src="./assets/diethunter.png" alt="" width="150px;"></td>
+      <td><a href="https://diethunter.org/">https://diethunter.org</a></td>
+    </tr>
+    <tr>
       <td><img src="./assets/doclify.png" alt="" width="160px;"></td>
       <td><a href="https://doclify.io/">https://doclify.io/</a></td>
     </tr>
