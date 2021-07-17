@@ -10,7 +10,7 @@
 
 <br />
 
-*We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintaining this repo for years and transferring it to the core team.*
+_We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintaining this repo for years and transferring it to the core team._
 
 ## Essentials
 
@@ -135,6 +135,10 @@
     <tr>
       <td><img src="./assets/crenet.png" alt="" width="120px;"></td>
       <td><a href="https://www.crenet.io">https://www.crenet.io</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/prospectwith.png" alt="ProspectWith Logo" width="120px;"></td>
+      <td><a href="https://www.prospectwith.com/">https://www.prospectwith.com/</a></td>
     </tr>
     <tr>
       <td><img src="./assets/gotedo-church-management-software.png" alt="Gotedo Church Management Software Logo" width="120px;"></td>
