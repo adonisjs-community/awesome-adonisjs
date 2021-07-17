@@ -137,6 +137,10 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
       <td><a href="https://www.crenet.io">https://www.crenet.io</a></td>
     </tr>
     <tr>
+      <td><img src="./assets/prospectwith.png" alt="ProspectWith Logo" width="120px;"></td>
+      <td><a href="https://www.prospectwith.com/">https://www.prospectwith.com/</a></td>
+    </tr>
+    <tr>
       <td><img src="./assets/gotedo-church-management-software.png" alt="Gotedo Church Management Software Logo" width="120px;"></td>
       <td><a href="https://gotedo.com">Gotedo Church Management Software</a></td>
     </tr>
@@ -147,10 +151,6 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
     <tr>
       <td><img src="./assets/lightoj.png" alt="LightOJ Logo" width="120px;"></td>
       <td><a href="https://lightoj.com">LightOJ</a></td>
-    </tr>
-    <tr>
-      <td><img src="./assets/prospectwith.png" alt="ProspectWith Logo" width="120px;"></td>
-      <td><a href="https://www.prospectwith.com/">ProspectWith</a></td>
     </tr>
   </tbody>
 </table>
