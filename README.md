@@ -10,7 +10,7 @@
 
 <br />
 
-*We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintaining this repo for years and transferring it to the core team.*
+_We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintaining this repo for years and transferring it to the core team._
 
 ## Essentials
 
@@ -147,6 +147,10 @@
     <tr>
       <td><img src="./assets/lightoj.png" alt="LightOJ Logo" width="120px;"></td>
       <td><a href="https://lightoj.com">LightOJ</a></td>
+    </tr>
+    <tr>
+      <td><img src="./assets/prospectwith.png" alt="ProspectWith Logo" width="120px;"></td>
+      <td><a href="https://www.prospectwith.com/">ProspectWith</a></td>
     </tr>
   </tbody>
 </table>
