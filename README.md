@@ -38,6 +38,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Redis RPC](https://github.com/reg2005/adonis5-redis-rpc) - Simple RPC Provider for Adonis 5, based on Redis pub/sub transport
 - [Adonis Lucid slugify](https://github.com/adonisjs/lucid-slugify) - Generate unique slugs from your Lucid models
 - [Adonis Lucid Soft Deletes](https://github.com/lookinlab/adonis-lucid-soft-deletes) - Addon for soft deletes Lucid models
+- [AdonisJS Cloudinary](https://github.com/liam-edwards/adonisjs-cloudinary) - A Cloudinary wrapper for Adonis 5
 
 ## Articles, tutorials, and blog posts
 
