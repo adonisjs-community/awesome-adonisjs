@@ -47,6 +47,7 @@
 - [Adonis Nextjs](https://github.com/omarkhatibco/adonis-nextjs) - A provider to initialize nextjs app with adonis.
 - [Adonis Notifications](https://github.com/enniel/adonis-notifications) - A provider for easy sending notifications (Inspired Laravel Notifications).
 - [Adonis Nunjucks](https://www.npmjs.com/package/adonis-nunjucks) - Nunjucks templating engine as ViewProvider, so everything works seam-lessly.
+- [Adonis Papertrail Logger](https://github.com/Shagital/adonisjs-logger-papertrail) - Add papertrail logger to adonisjs logger class
 - [Adonis Persona](https://github.com/adonisjs/adonis-persona) - Opinionated user management service for AdonisJs.
 - [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework.
 - [Adonis Rally](https://github.com/adonisjs/adonis-rally) - Forum engine.
