@@ -23,6 +23,7 @@
 ## Packages
 - [Adonis ACL](https://github.com/enniel/adonis-acl) - Adds role based permissions.
 - [Adonis Admin](https://github.com/adonis-china/adonis-admin) - Admin dashboard based on AdonisJs + [Adminify](https://github.com/wxs77577/adminify) (Based on vuetify).
+- [Adonis Admin Generator](https://github.com/Shagital/adonisjs-crud-generator) - Generate Admin dashboard from existing database/application
 - [Adonis Ally](https://github.com/adonisjs/adonis-ally) - Social Authentication provider. It gives you the functionality to authenticate users using social websites like Facebook, Twitter, Google, Github etc.
 - [Adonis Apollo Server](https://github.com/ammezie/adonis-apollo-server) - Production-ready Node.js GraphQL server for AdonisJs
 - [Adonis Auth](https://github.com/adonisjs/adonis-auth) - Official authentication provider.
