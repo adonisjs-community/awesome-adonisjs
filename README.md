@@ -38,6 +38,7 @@
 - [Adonis Internationalization](https://github.com/adonisjs/adonis-antl) - Internationalization module. Supports file and database drivers.
 - [Adonis Ironium](https://www.npmjs.com/package/adonis-ironium) - A job queuing provider that leverages [Ironium](https://www.npmjs.com/package/ironium).
 - [Adonis Kue](https://www.npmjs.com/package/adonis-kue) - A job queuing provider that leverages [Kue](https://www.npmjs.com/package/kue).
+- [Adonis Location](https://github.com/Shagital/adonisjs-location) - This Package offers a simple way to get Countries, Cities and States that you may need for your Application, most especially for dropdown menus.
 - [Adonis Lodge](https://www.npmjs.com/package/adonis-lodge) - Namespacing library for node/io js.
 - [Adonis Lucid](https://github.com/adonisjs/adonis-lucid) - Official SQL ORM.
 - [Adonis Lucid Filter](https://github.com/lookinlab/adonis-lucid-filter) - Addon for filtering Adonis Lucid ORM
