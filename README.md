@@ -52,6 +52,7 @@
 - [Adonis Papertrail Logger](https://github.com/Shagital/adonisjs-logger-papertrail) - Add papertrail logger to adonisjs logger class
 - [Adonis Persona](https://github.com/adonisjs/adonis-persona) - Opinionated user management service for AdonisJs.
 - [Adonis Pug](https://github.com/webdevian/adonis-pug) - Pug template language provider for AdonisJS framework.
+- [Adonis Quill Logger](https://github.com/Shagital/adonisjs-logger-quill) - This service provider adds Quill as a driver to Adonis Logger.
 - [Adonis Rally](https://github.com/adonisjs/adonis-rally) - Forum engine.
 - [Adonis reCAPTCHA](https://github.com/lookinlab/adonis-recaptcha2) - Google reCAPTCHA v2 for AdonisJS
 - [Adonis Redis](https://github.com/adonisjs/adonis-redis) - Package that makes easier to work with Redis, it has support of pub/sub.
