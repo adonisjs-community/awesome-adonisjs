@@ -39,6 +39,8 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Lucid slugify](https://github.com/adonisjs/lucid-slugify) - Generate unique slugs from your Lucid models
 - [Adonis Lucid Soft Deletes](https://github.com/lookinlab/adonis-lucid-soft-deletes) - Addon for soft deletes Lucid models
 - [AdonisJS Cloudinary](https://github.com/liam-edwards/adonisjs-cloudinary) - A Cloudinary wrapper for Adonis 5
+- [AdonisJS Ally Vk](https://github.com/lookinlab/adonis-ally-vk) - A driver of AdonisJS Ally for vk.com
+- [AdonisJS Ally Yandex](https://github.com/lookinlab/adonis-ally-yandex) - A driver of AdonisJS Ally for Yandex
 
 ## Articles, tutorials, and blog posts
 
