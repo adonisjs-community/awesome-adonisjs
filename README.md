@@ -33,6 +33,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Sentry](https://github.com/reg2005/adonis5-sentry) - Sentry for Adonis 5
 - [Adonis Cache](https://github.com/reg2005/adonis5-cache) - Cache provider for Adonis 5.
 - [Adonis BullMQ](https://github.com/reg2005/adonis5-bullmq) - Simple BullMQ provider for you own queue commands
+- [Adonis NATS](https://github.com/reg2005/adonis5-nats) - Scale your Adonis 5 application to infinity with microservices based on classes (with code completion from client side!) and NATS transport
 - [AdonisJS reCAPTCHA v2](https://github.com/lookinlab/adonis-recaptcha2) - Verifier for Google ReCAPTCHA v2
 - [Adonis Request throttler](https://github.com/reg2005/adonis-request-throttler) - Middleware for Request throttling
 - [Adonis Redis RPC](https://github.com/reg2005/adonis5-redis-rpc) - Simple RPC Provider for Adonis 5, based on Redis pub/sub transport
