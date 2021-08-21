@@ -48,7 +48,8 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis V5 (MongoDB) provider](https://mcsneaky.ap3k.pro/posts/adonis-v5-provider/) - An article covering how to use MongoDB in your AdonisJS projects
 - [Set up TailwindCSS using the default Encore package](https://ivanprats.dev/blog/set-up-tailwindcss-in-new-adonis5/) - A quick article explaining what dependencies to install and configuration to add to set up TailwindCSS in a Adonis 5 application, using the default Webpack Encore package for assets management.
 - [Adonis V5 serverless on AWS Lambda](https://github.com/tomhatzer/adonis-serverless) - This is an example repository for running AdonisJS V5 serverless on AWS Lambda.
-- [How to Implement Caching using Adonis.js 5](https://www.section.io/engineering-education/how-to-implement-caching-in-adonisjs-5/) 
+- [How to Implement Caching using Adonis.js 5](https://www.section.io/engineering-education/how-to-implement-caching-in-adonisjs-5/)
+- [Créer un blog avec Adonis](https://dev.to/barbapapazes/objectifs-et-mise-en-route-creer-un-blog-avec-adonis-20lg) - This is a series of tutorials that allows you to link the features of AdonisJS by creating a blog! (written in French)
 
 ## Videos and courses
 
