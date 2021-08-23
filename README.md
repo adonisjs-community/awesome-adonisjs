@@ -42,6 +42,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Cloudinary](https://github.com/liam-edwards/adonisjs-cloudinary) - A Cloudinary wrapper for Adonis 5
 - [AdonisJS Ally Vk](https://github.com/lookinlab/adonis-ally-vk) - A driver of AdonisJS Ally for vk.com
 - [AdonisJS Ally Yandex](https://github.com/lookinlab/adonis-ally-yandex) - A driver of AdonisJS Ally for Yandex
+- [AdonisJS Stardust](https://github.com/eidellev/adonis-stardust) - Access Adonis named routes in the client (inspired by Laravel's ziggy library)
 
 ## Articles, tutorials, and blog posts
 
