@@ -60,6 +60,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS 5 From Scratch](https://adonismastery.com/courses/adonisjs-5-from-scratch) - A project-based course, where you get to learn AdonisJS 5 by building. We'll cover each aspect of the framework while we gradually build a tasks application.
 - [Authentication with multiple IDs in AdonisJS 5](https://adonismastery.com/watch/authentication-with-multiple-ids-in-adonisjs-5) - A screencast showing how to allow users to log in with multiple IDs in an AdonisJS 5 application.
 - [AdonisJS 5: from preview to stable](https://adonismastery.com/watch/adonisjs-5:-from-preview-to-stable) - A screencast walking you through how to migrate an application built with the preview version of AdonisJS 5 to the stable version of AdonisJS 5.
+- [Kurs AdonisJS 5 (PL)](https://www.youtube.com/playlist?list=PL5D-bWa64_5JOzzj45boZ_tynJNM_x9vs) - A series of video courses for the Polish AdonisJS community. In the course we will create a full-fledged application, using practically everything the framework offers us.
 
 ## Books
 
