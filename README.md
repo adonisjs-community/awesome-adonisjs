@@ -71,6 +71,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Node ace ZSH completions](https://github.com/romch007/node-ace-zsh-completion) - ZSH completions for the node ace commandline
 - [Youtube Downloader](https://gitlab.com/McSneaky/youtube-downloader) - Youtube video and audio downloader as example project featuring dockerizing, response streaming and Gitlab CI automatic build + deploy
 - [Akpoho Invoicing Software](https://github.com/ndianabasi/akpoho-invoicing-software) - An open-source SaaS-grade application which provides invoicing, quotations, and receipts functionalities for small businesses. Akpoho Software is built with the amazing AdonisJS 5 as the backend, so you can study the source codes and learn how to build your SaaS application with AdonisJS.
+- [MVP Starter](https://github.com/yann-yinn/mvp-starter) - build faster your next idea with this Adonis Starter providing ready-to-use users management (Sign up, Sign in, logout, forgot password, email verification, roles)
 
 ## Companies/Projects using AdonisJS
 
