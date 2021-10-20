@@ -44,6 +44,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Ally Yandex](https://github.com/lookinlab/adonis-ally-yandex) - A driver of AdonisJS Ally for Yandex
 - [AdonisJS Stardust](https://github.com/eidellev/adonis-stardust) - Access Adonis named routes in the client (inspired by Laravel's ziggy library)
 - [AdoniosJS Ally Gitlab](https://github.com/rubenmoya/adonis-ally-gitlab) - A Gitlab driver for AdonisJS Ally
+- [Adonis Drive Azure Storage](https://github.com/AlexanderYW/Adonis-Drive-Azure-Storage) - A Azure Storage driver for AdonisJS Drive
 
 ## Articles, tutorials, and blog posts
 
