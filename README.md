@@ -46,6 +46,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdoniosJS Ally Gitlab](https://github.com/rubenmoya/adonis-ally-gitlab) - A Gitlab driver for AdonisJS Ally
 - [Adonis Drive Azure Storage](https://github.com/AlexanderYW/Adonis-Drive-Azure-Storage) - A Azure Storage driver for AdonisJS Drive
 - [Adonis Logger Azure Application Insights](https://github.com/AlexanderYW/Adonis-Logger-Azure-Application-Insights) - Azure Application Insights for AdonisJS
+- [AdonisJS hCaptcha](https://github.com/NerdyLuffy/adonisjs-hcaptcha) - A middleware for AdonisJS to keep your web applications secure from bots using hCaptcha
 
 ## Articles, tutorials, and blog posts
 
