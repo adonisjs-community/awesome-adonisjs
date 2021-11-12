@@ -152,6 +152,10 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
       <td><img src="./assets/lightoj.png" alt="LightOJ Logo" width="120px;"></td>
       <td><a href="https://lightoj.com">LightOJ</a></td>
     </tr>
+    <tr>
+      <td><img src="./assets/resilienceclub.png" alt="Resilience Club Logo" width="120px;"></td>
+      <td><a href="https://www.resilience.club/">Resilience Club</a></td>
+    </tr>
   </tbody>
 </table>
 
