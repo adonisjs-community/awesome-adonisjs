@@ -49,6 +49,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS hCaptcha](https://github.com/NerdyLuffy/adonisjs-hcaptcha) - A middleware for AdonisJS to keep your web applications secure from bots using hCaptcha
 - [AdonisJS JWT Auth](https://github.com/maxgalbu/adonis5-jwt) - Adds authentication using JWT and refresh tokens
 - [AdonisJS PBKDF2 hasher](https://github.com/maxgalbu/adonis5-pbkdf2) - Adds PBKDF2 hasher to your adonisjs project
+- [Adonis Responsive Attachment](https://github.com/ndianabasi/adonis-responsive-attachment) - Upload, convert, generate, and persist responsive and thumbnail images at various breakpoints with detailed metadata.
 
 ## Articles, tutorials, and blog posts
 
@@ -67,6 +68,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Authentication with multiple IDs in AdonisJS 5](https://adonismastery.com/watch/authentication-with-multiple-ids-in-adonisjs-5) - A screencast showing how to allow users to log in with multiple IDs in an AdonisJS 5 application.
 - [AdonisJS 5: from preview to stable](https://adonismastery.com/watch/adonisjs-5:-from-preview-to-stable) - A screencast walking you through how to migrate an application built with the preview version of AdonisJS 5 to the stable version of AdonisJS 5.
 - [Kurs AdonisJS 5 (PL)](https://www.youtube.com/playlist?list=PL5D-bWa64_5JOzzj45boZ_tynJNM_x9vs) - A series of video courses for the Polish AdonisJS community. In the course we will create a full-fledged application, using practically everything the framework offers us.
+- [Full-Stack Google Contacts Clone with Adonis.js Framework & Quasar Framework/Vue.js](https://tech.ndianabasi.com/series/google-contacts-clone) - This series/course (with over 30 articles) takes a learner through the entire process of creating a full-stack Google Contacts clone app with AdonisJS 5 and Quasar 2. Detailed frontend design and backend development for the app are covered.
 
 ## Books
 
