@@ -51,6 +51,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS PBKDF2 hasher](https://github.com/maxgalbu/adonis5-pbkdf2) - Adds PBKDF2 hasher to your adonisjs project
 - [Adonis Responsive Attachment](https://github.com/ndianabasi/adonis-responsive-attachment) - Upload, convert, generate, and persist responsive and thumbnail images at various breakpoints with detailed metadata.
 - [Adonis Prometheus](https://github.com/Julien-R44/adonis5-prometheus) - Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
+- [Adonis GRPC Consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - gRPC client provider for easily communicate with multiples gRPC services.
 
 ## Articles, tutorials, and blog posts
 
