@@ -52,6 +52,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Responsive Attachment](https://github.com/ndianabasi/adonis-responsive-attachment) - Upload, convert, generate, and persist responsive and thumbnail images at various breakpoints with detailed metadata.
 - [Adonis Prometheus](https://github.com/Julien-R44/adonis5-prometheus) - Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
 - [Adonis GRPC Consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - gRPC client provider for easily communicate with multiples gRPC services.
+- [AdoniosJS Ally Twitch](https://github.com/bombelflotz/ally-twitch-driver) - A Twitch driver for AdonisJS Ally
 
 ## Articles, tutorials, and blog posts
 
