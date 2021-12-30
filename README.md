@@ -43,7 +43,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Ally Vk](https://github.com/lookinlab/adonis-ally-vk) - A driver of AdonisJS Ally for vk.com
 - [AdonisJS Ally Yandex](https://github.com/lookinlab/adonis-ally-yandex) - A driver of AdonisJS Ally for Yandex
 - [AdonisJS Stardust](https://github.com/eidellev/adonis-stardust) - Access Adonis named routes in the client (inspired by Laravel's ziggy library)
-- [AdoniosJS Ally Gitlab](https://github.com/rubenmoya/adonis-ally-gitlab) - A Gitlab driver for AdonisJS Ally
+- [AdonisJS Ally Gitlab](https://github.com/rubenmoya/adonis-ally-gitlab) - A Gitlab driver for AdonisJS Ally
 - [Adonis Drive Azure Storage](https://github.com/AlexanderYW/Adonis-Drive-Azure-Storage) - A Azure Storage driver for AdonisJS Drive
 - [Adonis Logger Azure Application Insights](https://github.com/AlexanderYW/Adonis-Logger-Azure-Application-Insights) - Azure Application Insights for AdonisJS
 - [AdonisJS hCaptcha](https://github.com/NerdyLuffy/adonisjs-hcaptcha) - A middleware for AdonisJS to keep your web applications secure from bots using hCaptcha
@@ -52,7 +52,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Responsive Attachment](https://github.com/ndianabasi/adonis-responsive-attachment) - Upload, convert, generate, and persist responsive and thumbnail images at various breakpoints with detailed metadata.
 - [Adonis Prometheus](https://github.com/Julien-R44/adonis5-prometheus) - Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
 - [Adonis GRPC Consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - gRPC client provider for easily communicate with multiples gRPC services.
-- [AdoniosJS Ally Twitch](https://github.com/bombelflotz/ally-twitch-driver) - A Twitch driver for AdonisJS Ally
+- [AdonisJS Ally Twitch](https://github.com/bombelflotz/ally-twitch-driver) - A Twitch driver for AdonisJS Ally
 - [AdonisJS Sail](https://github.com/Julien-R44/adonis-sail) - Laravel Sail clone. Generate a ready-to-use docker environment for your AdonisJS application
 
 ## Articles, tutorials, and blog posts
