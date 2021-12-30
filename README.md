@@ -53,6 +53,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Prometheus](https://github.com/Julien-R44/adonis5-prometheus) - Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
 - [Adonis GRPC Consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - gRPC client provider for easily communicate with multiples gRPC services.
 - [AdoniosJS Ally Twitch](https://github.com/bombelflotz/ally-twitch-driver) - A Twitch driver for AdonisJS Ally
+- [AdonisJS Sail](https://github.com/Julien-R44/adonis-sail) - Laravel Sail clone. Generate a ready-to-use docker environment for your AdonisJS application
 
 ## Articles, tutorials, and blog posts
 
