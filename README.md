@@ -55,6 +55,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Ally Twitch](https://github.com/bombelflotz/ally-twitch-driver) - A Twitch driver for AdonisJS Ally
 - [AdonisJS Sail](https://github.com/Julien-R44/adonis-sail) - Laravel Sail clone. Generate a ready-to-use docker environment for your AdonisJS application
 - [Pretty-List-Routes](https://github.com/Julien-R44/pretty-list-routes) - A beautiful `list:routes` for AdonisJS
+- [AdonisJS Select Related](https://github.com/chirgjin/adonisjs-select-related) - Apply inner & outer joins using relationships on your models
 
 ## Articles, tutorials, and blog posts
 
