@@ -56,6 +56,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Sail](https://github.com/Julien-R44/adonis-sail) - Laravel Sail clone. Generate a ready-to-use docker environment for your AdonisJS application
 - [Pretty-List-Routes](https://github.com/Julien-R44/pretty-list-routes) - A beautiful `list:routes` for AdonisJS
 - [AdonisJS Select Related](https://github.com/chirgjin/adonisjs-select-related) - Apply inner & outer joins using relationships on your models
+- [@verful/notifications](https://github.com/verful/notifications) - Notifications provider for Adonis 5. Inspired by Laravel Notifications
 
 ## Articles, tutorials, and blog posts
 
@@ -64,6 +65,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis V5 serverless on AWS Lambda](https://github.com/tomhatzer/adonis-serverless) - This is an example repository for running AdonisJS V5 serverless on AWS Lambda.
 - [How to Implement Caching using Adonis.js 5](https://www.section.io/engineering-education/how-to-implement-caching-in-adonisjs-5/)
 - [Créer un blog avec Adonis](https://dev.to/barbapapazes/objectifs-et-mise-en-route-creer-un-blog-avec-adonis-20lg) - This is a series of tutorials that allows you to link the features of AdonisJS by creating a blog! (written in French)
+- [Broadcasting in AdonisJS](https://dev.to/arthurer/broadcasting-in-adonisjs-453g) - How to setup a laravel like Broadcast system 
 
 ## Videos and courses
 
