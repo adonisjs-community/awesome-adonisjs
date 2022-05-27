@@ -50,6 +50,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS JWT Auth](https://github.com/maxgalbu/adonis5-jwt) - Adds authentication using JWT and refresh tokens
 - [AdonisJS PBKDF2 hasher](https://github.com/maxgalbu/adonis5-pbkdf2) - Adds PBKDF2 hasher to your adonisjs project
 - [Adonis Responsive Attachment](https://github.com/ndianabasi/adonis-responsive-attachment) - Upload, convert, generate, and persist responsive and thumbnail images at various breakpoints with detailed metadata.
+- [AdonisJS Kvn Response](https://github.com/kevin1193/adonis-kvn-response) - Common REST API response helper to REST API adonisjs project
 
 ## Articles, tutorials, and blog posts
 
