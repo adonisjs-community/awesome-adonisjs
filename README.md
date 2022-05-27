@@ -43,13 +43,21 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Ally Vk](https://github.com/lookinlab/adonis-ally-vk) - A driver of AdonisJS Ally for vk.com
 - [AdonisJS Ally Yandex](https://github.com/lookinlab/adonis-ally-yandex) - A driver of AdonisJS Ally for Yandex
 - [AdonisJS Stardust](https://github.com/eidellev/adonis-stardust) - Access Adonis named routes in the client (inspired by Laravel's ziggy library)
-- [AdoniosJS Ally Gitlab](https://github.com/rubenmoya/adonis-ally-gitlab) - A Gitlab driver for AdonisJS Ally
+- [AdonisJS Ally Gitlab](https://github.com/rubenmoya/adonis-ally-gitlab) - A Gitlab driver for AdonisJS Ally
 - [Adonis Drive Azure Storage](https://github.com/AlexanderYW/Adonis-Drive-Azure-Storage) - A Azure Storage driver for AdonisJS Drive
 - [Adonis Logger Azure Application Insights](https://github.com/AlexanderYW/Adonis-Logger-Azure-Application-Insights) - Azure Application Insights for AdonisJS
 - [AdonisJS hCaptcha](https://github.com/NerdyLuffy/adonisjs-hcaptcha) - A middleware for AdonisJS to keep your web applications secure from bots using hCaptcha
 - [AdonisJS JWT Auth](https://github.com/maxgalbu/adonis5-jwt) - Adds authentication using JWT and refresh tokens
 - [AdonisJS PBKDF2 hasher](https://github.com/maxgalbu/adonis5-pbkdf2) - Adds PBKDF2 hasher to your adonisjs project
 - [Adonis Responsive Attachment](https://github.com/ndianabasi/adonis-responsive-attachment) - Upload, convert, generate, and persist responsive and thumbnail images at various breakpoints with detailed metadata.
+- [Adonis Prometheus](https://github.com/Julien-R44/adonis5-prometheus) - Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
+- [Adonis GRPC Consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - gRPC client provider for easily communicate with multiples gRPC services.
+- [AdonisJS Ally Twitch](https://github.com/bombelflotz/ally-twitch-driver) - A Twitch driver for AdonisJS Ally
+- [AdonisJS Sail](https://github.com/Julien-R44/adonis-sail) - Laravel Sail clone. Generate a ready-to-use docker environment for your AdonisJS application
+- [Pretty-List-Routes](https://github.com/Julien-R44/pretty-list-routes) - A beautiful `list:routes` for AdonisJS
+- [AdonisJS Select Related](https://github.com/chirgjin/adonisjs-select-related) - Apply inner & outer joins using relationships on your models
+- [@verful/notifications](https://github.com/verful/notifications) - Notifications provider for Adonis 5. Inspired by Laravel Notifications
+- [AdonisJS Ally Figma](https://github.com/phicoder/ally-figma-driver) - A Figma driver for AdonisJS Ally
 - [AdonisJS Kvn Response](https://github.com/kevin1193/adonis-kvn-response) - Common REST API response helper to REST API adonisjs project
 
 ## Articles, tutorials, and blog posts
@@ -59,6 +67,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis V5 serverless on AWS Lambda](https://github.com/tomhatzer/adonis-serverless) - This is an example repository for running AdonisJS V5 serverless on AWS Lambda.
 - [How to Implement Caching using Adonis.js 5](https://www.section.io/engineering-education/how-to-implement-caching-in-adonisjs-5/)
 - [Créer un blog avec Adonis](https://dev.to/barbapapazes/objectifs-et-mise-en-route-creer-un-blog-avec-adonis-20lg) - This is a series of tutorials that allows you to link the features of AdonisJS by creating a blog! (written in French)
+- [Broadcasting in AdonisJS](https://dev.to/arthurer/broadcasting-in-adonisjs-453g) - How to setup a laravel like Broadcast system 
 
 ## Videos and courses
 
@@ -81,6 +90,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Youtube Downloader](https://gitlab.com/McSneaky/youtube-downloader) - Youtube video and audio downloader as example project featuring dockerizing, response streaming and Gitlab CI automatic build + deploy
 - [Akpoho Invoicing Software](https://github.com/ndianabasi/akpoho-invoicing-software) - An open-source SaaS-grade application which provides invoicing, quotations, and receipts functionalities for small businesses. Akpoho Software is built with the amazing AdonisJS 5 as the backend, so you can study the source codes and learn how to build your SaaS application with AdonisJS.
 - [MVP Starter](https://github.com/yann-yinn/mvp-starter) - build faster your next idea with this Adonis Starter providing ready-to-use users management (Sign up, Sign in, logout, forgot password, email verification, roles)
+- [MVP Admin Starter](https://github.com/batosai/adonis-starter) - build your next Adonis Starter project from a pre-existing admin interface (Register user, Roles, Sign in, Forgot password, Email verification, Impersonating users)
 
 ## Companies/Projects using AdonisJS
 
