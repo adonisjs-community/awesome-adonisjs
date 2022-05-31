@@ -58,6 +58,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Select Related](https://github.com/chirgjin/adonisjs-select-related) - Apply inner & outer joins using relationships on your models
 - [@verful/notifications](https://github.com/verful/notifications) - Notifications provider for Adonis 5. Inspired by Laravel Notifications
 - [AdonisJS Ally Figma](https://github.com/phicoder/ally-figma-driver) - A Figma driver for AdonisJS Ally
+- [AdonisJS Kvn Response](https://github.com/kevin1193/adonis-kvn-response) - Common REST API response helper to REST API adonisjs project
 
 ## Articles, tutorials, and blog posts
 
