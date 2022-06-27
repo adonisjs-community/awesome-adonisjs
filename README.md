@@ -59,6 +59,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [@verful/notifications](https://github.com/verful/notifications) - Notifications provider for Adonis 5. Inspired by Laravel Notifications
 - [AdonisJS Ally Figma](https://github.com/phicoder/ally-figma-driver) - A Figma driver for AdonisJS Ally
 - [AdonisJS Kvn Response](https://github.com/kevin1193/adonis-kvn-response) - Common REST API response helper to REST API adonisjs project
+- [Adosearch](https://github.com/obapelumi/adosearch) - typed, deeply nested database search for adonis.js applications
 
 ## Articles, tutorials, and blog posts
 
@@ -67,7 +68,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis V5 serverless on AWS Lambda](https://github.com/tomhatzer/adonis-serverless) - This is an example repository for running AdonisJS V5 serverless on AWS Lambda.
 - [How to Implement Caching using Adonis.js 5](https://www.section.io/engineering-education/how-to-implement-caching-in-adonisjs-5/)
 - [Créer un blog avec Adonis](https://dev.to/barbapapazes/objectifs-et-mise-en-route-creer-un-blog-avec-adonis-20lg) - This is a series of tutorials that allows you to link the features of AdonisJS by creating a blog! (written in French)
-- [Broadcasting in AdonisJS](https://dev.to/arthurer/broadcasting-in-adonisjs-453g) - How to setup a laravel like Broadcast system 
+- [Broadcasting in AdonisJS](https://dev.to/arthurer/broadcasting-in-adonisjs-453g) - How to setup a laravel like Broadcast system
 
 ## Videos and courses
 
