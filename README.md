@@ -1,6 +1,6 @@
 # Awesome AdonisJS [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="adonis-icon.png" align="right" width="100">](https://preactjs.com)
+[<img src="adonis-icon.png" align="right" width="100">](https://adonisjs.com)
 
 > This is a carefully curated list of awesome [AdonisJS](https://adonisjs.com) resources :star2:
 
