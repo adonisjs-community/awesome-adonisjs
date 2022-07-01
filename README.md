@@ -1,6 +1,6 @@
 # Awesome AdonisJS [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="adonis-icon.png" align="right" width="100">](https://preactjs.com)
+[<img src="adonis-icon.png" align="right" width="100">](https://adonisjs.com)
 
 > This is a carefully curated list of awesome [AdonisJS](https://adonisjs.com) resources :star2:
 
@@ -92,6 +92,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Akpoho Invoicing Software](https://github.com/ndianabasi/akpoho-invoicing-software) - An open-source SaaS-grade application which provides invoicing, quotations, and receipts functionalities for small businesses. Akpoho Software is built with the amazing AdonisJS 5 as the backend, so you can study the source codes and learn how to build your SaaS application with AdonisJS.
 - [MVP Starter](https://github.com/yann-yinn/mvp-starter) - build faster your next idea with this Adonis Starter providing ready-to-use users management (Sign up, Sign in, logout, forgot password, email verification, roles)
 - [MVP Admin Starter](https://github.com/batosai/adonis-starter) - build your next Adonis Starter project from a pre-existing admin interface (Register user, Roles, Sign in, Forgot password, Email verification, Impersonating users)
+- [Karaoke](https://github.com/batosai/karaoke) - Experimental karaoke app. Create a playlist by adding the youtube url of your choice and use your smartphone as a microphone.
 
 ## Companies/Projects using AdonisJS
 
