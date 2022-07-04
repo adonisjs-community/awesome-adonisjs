@@ -93,6 +93,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [MVP Starter](https://github.com/yann-yinn/mvp-starter) - build faster your next idea with this Adonis Starter providing ready-to-use users management (Sign up, Sign in, logout, forgot password, email verification, roles)
 - [MVP Admin Starter](https://github.com/batosai/adonis-starter) - build your next Adonis Starter project from a pre-existing admin interface (Register user, Roles, Sign in, Forgot password, Email verification, Impersonating users)
 - [Karaoke](https://github.com/batosai/karaoke) - Experimental karaoke app. Create a playlist by adding the youtube url of your choice and use your smartphone as a microphone.
+- [fractal-edge-adapter](https://github.com/batosai/fractal-edge-adapter) Use edge templates with Fractal.
 
 ## Companies/Projects using AdonisJS
 
