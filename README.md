@@ -27,6 +27,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Inertia Provider](https://github.com/eidellev/inertiajs-adonisjs) - Allows you to build server-driven single page apps using [Inertia.js](https://inertiajs.com/)
 - [Adonis Class Validator](https://github.com/tnkemdilim/adonis-class-validator) - Adonis Class Validator provides a means to validate a request data using a class based schema
 - [Adonis Mix Asset](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS application
+- [Adonis Bull Queue](https://github.com/setten-io/adonis-bull-queue) - Queue system based on BullMQ for AdonisJS 5
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
 - [Adonis Stripe](https://github.com/mezielabs/adonis-stripe) - This package makes it seamless to work with Stripe in AdonisJS 5 applications.
 - [Adonis Swagger](https://github.com/reg2005/adonis5-swagger) - Swagger for Adonis 5
