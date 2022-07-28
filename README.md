@@ -30,6 +30,9 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Vite](https://github.com/91codes/adonis-vite) - [Vite](https://vitejs.dev/) based frontend assets manager
 - [Adonis Bull Queue](https://github.com/setten-io/adonis-bull-queue) - Queue system based on BullMQ for AdonisJS 5
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
+- [Adonis Cache](https://github.com/Melchyore/adonis-cache) - Cache package for AdonisJS V5
+- [Adonis Lucid Observer](https://github.com/Melchyore/adonis-lucid-observer) - Observer package for Lucid (AdonisJS V5)
+- [Adonis DynamoDB](https://github.com/Melchyore/adonis-dynamodb) - A DynamoDB (Dyngoose) wrapper for AdonisJS
 - [Adonis Stripe](https://github.com/mezielabs/adonis-stripe) - This package makes it seamless to work with Stripe in AdonisJS 5 applications.
 - [Adonis Swagger](https://github.com/reg2005/adonis5-swagger) - Swagger for Adonis 5
 - [Adonis Sentry](https://github.com/reg2005/adonis5-sentry) - Sentry for Adonis 5
