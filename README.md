@@ -30,6 +30,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Vite](https://github.com/91codes/adonis-vite) - [Vite](https://vitejs.dev/) based frontend assets manager
 - [Adonis Bull Queue](https://github.com/setten-io/adonis-bull-queue) - Queue system based on BullMQ for AdonisJS 5
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
+- [Adonis Auto-Preload](https://github.com/Melchyore/adonis-auto-preload) - Auto-preload multiple relationships when retrieving Lucid models
 - [Adonis Form Request](https://github.com/Melchyore/adonis-form-request) - Use dedicated classes to authorize and validate requests
 - [Adonis Cache](https://github.com/Melchyore/adonis-cache) - Cache package for AdonisJS V5
 - [Adonis Lucid Observer](https://github.com/Melchyore/adonis-lucid-observer) - Observer package for Lucid (AdonisJS V5)
