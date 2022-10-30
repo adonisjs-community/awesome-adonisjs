@@ -67,6 +67,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Ally Figma](https://github.com/phicoder/ally-figma-driver) - A Figma driver for AdonisJS Ally
 - [AdonisJS Kvn Response](https://github.com/kevin1193/adonis-kvn-response) - Common REST API response helper to REST API adonisjs project
 - [Adosearch](https://github.com/obapelumi/adosearch) - typed, deeply nested database search for adonis.js applications
+- [Edge components](https://github.com/batosai/edge-components) - A components library for Edge template engine and AdonisJS.
 
 ## Articles, tutorials, and blog posts
 
