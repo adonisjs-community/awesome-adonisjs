@@ -92,6 +92,8 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 
 ## Community
 
+- [AdonisJobs](https://www.adonisjobs.dev) - A job board for Adonis
+
 ## Miscellaneous
 
 - [Node ace ZSH completions](https://github.com/romch007/node-ace-zsh-completion) - ZSH completions for the node ace commandline
