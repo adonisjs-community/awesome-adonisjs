@@ -69,6 +69,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adosearch](https://github.com/obapelumi/adosearch) - typed, deeply nested database search for adonis.js applications
 - [Edge components](https://github.com/batosai/edge-components) - A components library for Edge template engine and AdonisJS.
 - [Adonis attachment advanced](https://github.com/batosai/attachment-advanced) - Upload images and convert, generate, regenerate variants images. Upload video and documents, generate preview images.
+- [AdonisJS Ally Authentik](https://github.com/alfianazizi/ally-driver-authentik) - An Authentik driver for AdonisJS Ally
 
 ## Articles, tutorials, and blog posts
 
