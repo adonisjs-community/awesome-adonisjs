@@ -28,7 +28,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Class Validator](https://github.com/tnkemdilim/adonis-class-validator) - Adonis Class Validator provides a means to validate a request data using a class based schema
 - [Adonis Mix Asset](https://github.com/wahyubucil/adonis-mix-asset) - Adonis Mix Asset is an assets bundler based on Laravel Mix for AdonisJS application
 - [Adonis Vite](https://github.com/91codes/adonis-vite) - [Vite](https://vitejs.dev/) based frontend assets manager
-- [Adonis Bull Queue](https://github.com/setten-io/adonis-bull-queue) - Queue system based on BullMQ for AdonisJS 5
+- [Adonis Bull Queue](https://github.com/RomainLanz/adonis-bull-queue) - Queue system based on BullMQ for AdonisJS 5
 - [Adonis Bull](https://github.com/Rocketseat/adonis-bull/tree/alpha) - A bull queue provider for AdonisJS applications
 - [Adonis Auto-Preload](https://github.com/Melchyore/adonis-auto-preload) - Auto-preload multiple relationships when retrieving Lucid models
 - [Adonis Form Request](https://github.com/Melchyore/adonis-form-request) - Use dedicated classes to authorize and validate requests
@@ -70,6 +70,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Edge components](https://github.com/batosai/edge-components) - A components library for Edge template engine and AdonisJS.
 - [Adonis attachment advanced](https://github.com/batosai/attachment-advanced) - Upload images and convert, generate, regenerate variants images. Upload video and documents, generate preview images.
 - [AdonisJS Ally Authentik](https://github.com/alfianazizi/ally-driver-authentik) - An Authentik driver for AdonisJS Ally
+- [AdonisJS Mqtt](https://github.com/Tidaly-IO/adonisjs-mqtt) - A Mqtt Publisher/Subscriber for AdonisJS
 
 ## Articles, tutorials, and blog posts
 
