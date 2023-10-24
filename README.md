@@ -199,6 +199,10 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
       <td><img src="./assets/resilienceclub.png" alt="Resilience Club Logo" width="120px;"></td>
       <td><a href="https://www.resilience.club/">Resilience Club</a></td>
     </tr>
+    <tr>
+      <td><img src="./assets/indahouse.png" alt="" width="200px;"></td>
+      <td><a href="https://indahouse.com.co/">Indahouse</a></td>
+    </tr>
   </tbody>
 </table>
 
