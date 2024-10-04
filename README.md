@@ -70,6 +70,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Edge components](https://github.com/batosai/edge-components) - A components library for Edge template engine and AdonisJS.
 - [Adonis attachment advanced](https://github.com/batosai/attachment-advanced) - Upload images and convert, generate, regenerate variants images. Upload video and documents, generate preview images.
 - [AdonisJS Ally Authentik](https://github.com/alfianazizi/ally-driver-authentik) - An Authentik driver for AdonisJS Ally
+- [AdonisJS Ally Blizzard](https://github.com/tom-laplace/ally-blizzard) - A Blizzard/Battle.net driver for AdonisJS Ally
 
 ## Articles, tutorials, and blog posts
 
