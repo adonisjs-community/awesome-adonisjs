@@ -47,8 +47,10 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Adonis Lucid slugify](https://github.com/adonisjs/lucid-slugify) - Generate unique slugs from your Lucid models
 - [Adonis Lucid Soft Deletes](https://github.com/lookinlab/adonis-lucid-soft-deletes) - Addon for soft deletes Lucid models
 - [AdonisJS Cloudinary](https://github.com/liam-edwards/adonisjs-cloudinary) - A Cloudinary wrapper for Adonis 5
-- [AdonisJS Ally Vk](https://github.com/lookinlab/adonis-ally-vk) - A driver of AdonisJS Ally for vk.com
-- [AdonisJS Ally Yandex](https://github.com/lookinlab/adonis-ally-yandex) - A driver of AdonisJS Ally for Yandex
+- [AdonisJS Ally Vk](https://github.com/lookinlab/adonis-ally-vk) - A driver of AdonisJS 5 Ally for vk.com
+- [AdonisJS Ally Yandex](https://github.com/lookinlab/adonis-ally-yandex) - A driver of AdonisJS 5 Ally for Yandex
+- [AdonisJS Ally Vk](https://github.com/dmitry-makovsky/adonis6_ally_vk) - A driver of AdonisJS Ally for vk.com
+- [AdonisJS Ally Yandex](https://github.com/dmitry-makovsky/adonis6_ally_yandex) - A driver of AdonisJS Ally for Yandex
 - [AdonisJS Stardust](https://github.com/eidellev/adonis-stardust) - Access Adonis named routes in the client (inspired by Laravel's ziggy library)
 - [AdonisJS Ally Gitlab](https://github.com/rubenmoya/adonis-ally-gitlab) - A Gitlab driver for AdonisJS Ally
 - [Adonis Drive Azure Storage](https://github.com/AlexanderYW/Adonis-Drive-Azure-Storage) - A Azure Storage driver for AdonisJS Drive
