@@ -72,6 +72,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Ally Authentik](https://github.com/alfianazizi/ally-driver-authentik) - An Authentik driver for AdonisJS Ally
 - [AdonisJS Ally Blizzard](https://github.com/tom-laplace/ally-blizzard) - A Blizzard/Battle.net driver for AdonisJS Ally
 - [Apitally](https://github.com/apitally/apitally-js) - Simple API monitoring, analytics, and request logging for AdonisJS
+- [AdonisJS Ally Microsoft](https://github.com/ThibaultPointurier/ally-microsoft) - A Microsoft driver for AdonisJS Ally
 
 ## Articles, tutorials, and blog posts
 
