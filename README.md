@@ -74,6 +74,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [Apitally](https://github.com/apitally/apitally-js) - Simple API monitoring, analytics, and request logging for AdonisJS
 - [AdonisJS Ally Microsoft](https://github.com/ThibaultPointurier/ally-microsoft) - A Microsoft driver for AdonisJS Ally
 - [AdonisJS Ally Patreon](https://github.com/ThibaultPointurier/ally-patreon) - A Patreon driver for AdonisJS Ally
+- [AdonisJS Mercure](https://github.com/mdsiha/adonis-mercure) - Mercure Hub integration for AdonisJS v6 — real-time updates via Server-Sent Events (SSE)
 
 ## Articles, tutorials, and blog posts
 
