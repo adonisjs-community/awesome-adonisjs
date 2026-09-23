@@ -75,6 +75,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Ally Microsoft](https://github.com/ThibaultPointurier/ally-microsoft) - A Microsoft driver for AdonisJS Ally
 - [AdonisJS Ally Patreon](https://github.com/ThibaultPointurier/ally-patreon) - A Patreon driver for AdonisJS Ally
 - [AdonisJS Mercure](https://github.com/mdsiha/adonis-mercure) - Mercure Hub integration for AdonisJS v6 — real-time updates via Server-Sent Events (SSE)
+- [Adonis Impersonate](https://github.com/devnymous/adonis-impersonate) - User impersonation for AdonisJS v6, inspired by Laravel's lab404/laravel-impersonate
 
 ## Articles, tutorials, and blog posts
 
